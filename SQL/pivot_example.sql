@@ -13,6 +13,7 @@ group by 1
 group by s.user_id
 
 case when을 이용한 pivot을 활용한 예. 아래는 if를 활용한 pivot의 좋은 예시이다.
+pivotting using case when clause. refer an example below using if cluase
 */
 
 select s.user_id, round(avg(if(c.action="confirmed",1,0)),2) as confirmation_rate
