@@ -11,8 +11,12 @@
             "id": "458602d0c0a4a0cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,11 +145,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c556f10849853a5e",
+  "active": "458602d0c0a4a0cc",
   "lastOpenFiles": [
+    "2024-01-18.md",
+    "무제 파일.canvas",
+    "README.md",
+    "Python",
+    "SQL",
+    "무제 파일.md",
+    "Untitled.canvas",
     "옵시디언 시작",
     "무제 폴더 1",
-    "dfdfdfd",
-    "무제 폴더"
+    "dfdfdfd"
   ]
 }
