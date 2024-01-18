@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           }
@@ -145,17 +145,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "458602d0c0a4a0cc",
+  "active": "c556f10849853a5e",
   "lastOpenFiles": [
+    "SQL/pivot_example.sql",
+    "SQL/non_equi_example.sql",
+    "SQL/crossjoin_example.sql",
+    "Python/Python_reference.md",
+    "Obsidian/SQL/SQL_reference.md",
+    "Obsidian/SQL",
+    "Obsidian/README.md",
+    "Obsidian/Python/python_reference.md",
+    "Obsidian/Python",
+    "Obsidian",
+    "Python/Obsidian/SQL/cross_join_example_1.sql",
+    "SQL/SQL_reference.md",
+    "Python/Obsidian/SQL/SQL_reference.md",
+    "Python/Obsidian/SQL",
+    "Python/Obsidian/README.md",
+    "Python/Obsidian/Python/python_reference.md",
+    "Python/Obsidian/Python",
+    "Python/Obsidian",
+    "README.md",
+    "SQL",
     "2024-01-18.md",
     "무제 파일.canvas",
-    "README.md",
-    "Python",
-    "SQL",
     "무제 파일.md",
-    "Untitled.canvas",
-    "옵시디언 시작",
-    "무제 폴더 1",
-    "dfdfdfd"
+    "Untitled.canvas"
   ]
 }
