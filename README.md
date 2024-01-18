@@ -1,12 +1,14 @@
 # Obsidian for git
 
-# Coding for license
+**Coding for license
 
+---
 
 
 ```python
 print("Hello World")
 ```
+
 ```sql
 select *
 from concat
