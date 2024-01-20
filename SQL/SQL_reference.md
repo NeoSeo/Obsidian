@@ -39,6 +39,15 @@ trunc(99.9999, 2) -- == 99.99
 justify_interval(duration) -- 한달을 무조건 30일로 계산, counting a month firmly 30 days
 age() -- 한달을 28, 31일등 정확히 계산, counting actual days within month
 
+avg(str)
+sum(str) -- 문자열은 불가 aggregate 불가
+min(str)
+max(str) -- group by랑 쓸 경우 아무 str이나 가져와야 할 때 max/min을 쓴다
+min(date)
+max(date) -- min/max는 문자열/날짜 가능. 날짜의 경우 max는 가장 최근 날짜
+
 
 ```
+
+[[데이터분석_SQL_Fundamentals.pdf]]
 
