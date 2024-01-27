@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33bb41b1e81a48b3",
+            "id": "cd7d26172e012022",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cd7d26172e012022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
+                "file": "2024-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
+                "file": "2024-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md"
+                "file": "2024-01-27.md"
               }
             }
           },
@@ -171,11 +158,12 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "Daily Done List.md",
-    "2024-01-27.md",
-    "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
-    "SQL/SQL_reference.md",
     "2024-01-19.md",
+    "2024-01-27.md",
+    "SQL/SQL_reference.md",
+    "Growth_Hacking/2-2-2 Acquisition 2.pdf",
+    "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
+    "Daily Done List.md",
     "Growth_Hacking/그로스 해킹_정리2.pdf",
     "SQL/Percentage of user contest.pdf",
     "SQL/pivot_example_2.sql",
@@ -186,7 +174,6 @@
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "데이터분석_SQL_Fundamentals_240120_123154.pdf",
     "SQL/데이터분석_SQL_Fundamentals_240120_122418.pdf",
-    "SQL/데이터분석_SQL_Fundamentals (conflict 2024-01-20-17-53-25).pdf",
     "무제 파일.canvas",
     "Test.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
