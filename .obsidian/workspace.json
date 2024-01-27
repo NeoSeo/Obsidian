@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd7d26172e012022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33bb41b1e81a48b3",
+  "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "2024-01-19.md",
+    "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "2024-01-27.md",
+    "2024-01-19.md",
     "Daily Done List.md",
     "README.md",
     "SQL/groupby_example.sql",
@@ -174,7 +188,6 @@
     "Growth_Hacking/1-1 전제조건_PMF_240120_173244.pdf",
     "SQL/SQL_reference.md",
     "무제 파일.canvas",
-    "무제 파일.md",
     "Test.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",

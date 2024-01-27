@@ -1,0 +1,17 @@
+ Growth Hacking is based on PMF(Product-Market Fit)
+- PMF consists of Retention, Converstion, NPS
+- NPS is recommendation ratio and calculated by the number of recommedation - not recommendation : (It's successful even if you have small positive number)
+- Do NOT consider Install, Sign-up, Active user which is not critical for business. These are just consequential metrics
+- To improve PMF, do NOT brain storming, add new features, improve retention, conversion, which is consequential.
+- DO contact and listen to users. DO analyse user data
+- Task based matrics can't offer what's important. Each team just attain because it's their metrics. 
+- There could be missing task in task based
+- NOT optimized for service/product
+### Acquisition: CAC < LTV
+Customer acquisition Cost < Lifetime Value
+유저 획득 비용 < 고객 lifetime 가치
+같은 비율이라면 LTV를 증가시키는 게 CAC를 감소시키는 것보다 낮다.
+Do not look at simple number such as 
+#### Acquisition cost: 20 mil won / signup: 5k -> CAC is 4,000 won (X)
+
+Specify cost into channel, campaign, date
