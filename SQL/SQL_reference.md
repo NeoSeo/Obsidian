@@ -49,6 +49,42 @@ min(date)
 max(date) -- min/max는 문자열/날짜 가능. 날짜의 경우 max는 가장 최근 날짜
 
 
+
+-- group by Pivoting시 조건에 따른 건수 계산 유형(count case when then 1 else null end)
+
+select deptno, count(*) as cnt
+, count(case when job = 'SALESMAN' then 1 end) as sales_cnt
+, count(case when job = 'MANAGER' then 1 end) as manager_cnt
+, count(case when job = 'ANALYST' then 1 end) as analyst_cnt
+, count(case when job = 'CLERK' then 1 end) as clerk_cnt
+, count(case when job = 'PRESIDENT' then 1 end) as president_cnt
+from emp
+group by deptno;
+
+-- group by Pivoting시 조건에 따른 건수 계산 시 잘못된 사례(count case when then 1 else null end) 
+-- 아래에서 salesman이면 0으로 놓고 counting을 해버린다. 
+-- 0으로 넣고 싶으면 count대신 sum으로 한다. 
+select deptno, count(*) as cnt
+, count(case when job = 'SALESMAN' then 1 else 0 end) as sales_cnt -- 0으로 넣고 0까지 카운트 해버린다.
+, count(case when job = 'MANAGER' then 1 else 0 end) as manager_cnt
+, count(case when job = 'ANALYST' then 1 else 0 end) as analyst_cnt
+, count(case when job = 'CLERK' then 1 else 0 end) as clerk_cnt
+, count(case when job = 'PRESIDENT' then 1 else 0 end) as president_cnt
+from emp
+group by deptno;
+
+
+-- 같
+select job, sum(sal) as sales_sum
+from hr.emp a
+group by job;
+
+select sum(case when job = 'SALESMAN' then sal end) as sales_sum
+, sum(case when job = 'MANAGER' then sal end) as manager_sum
+, sum(case when job = 'ANALYST' then sal end) as analyst_sum
+, sum(case when job = 'CLERK' then sal end) as clerk_sum
+, sum(case when job = 'PRESIDENT' then sal end) as president_sum
+from emp;
 ```
 
 [[데이터분석_SQL_Fundamentals.pdf]]
