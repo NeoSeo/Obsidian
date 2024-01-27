@@ -11,9 +11,11 @@
             "id": "33bb41b1e81a48b3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SQL/Percentage of user contest.pdf"
+                "file": "2024-01-27.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Percentage of user contest.pdf",
+                "file": "2024-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Percentage of user contest.pdf",
+                "file": "2024-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Percentage of user contest.pdf"
+                "file": "2024-01-27.md"
               }
             }
           },
@@ -156,6 +158,12 @@
   },
   "active": "33bb41b1e81a48b3",
   "lastOpenFiles": [
+    "2024-01-19.md",
+    "2024-01-27.md",
+    "Daily Done List.md",
+    "README.md",
+    "SQL/groupby_example.sql",
+    "SQL/Percentage of user contest.pdf",
     "SQL/with.nullvalue_example.sql",
     "SQL/select_subquery_example.sql",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
@@ -164,13 +172,7 @@
     "SQL/데이터분석_SQL_Fundamentals (conflict 2024-01-20-17-53-25).pdf",
     "Growth_Hacking/0-1 그로스해킹이란.pdf",
     "Growth_Hacking/1-1 전제조건_PMF_240120_173244.pdf",
-    "Growth_Hacking",
-    "SQL/Percentage of user contest.pdf",
     "SQL/SQL_reference.md",
-    "Daily Done List.md",
-    "2024-01-19.md",
-    "README.md",
-    "Percentage of user contest.pdf",
     "무제 파일.canvas",
     "무제 파일.md",
     "Test.md",
