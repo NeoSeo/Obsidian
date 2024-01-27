@@ -3,6 +3,7 @@
 
 ```sql
 select year||'&'||month -- concat
+select concat(year(trans_date),'-',month(trans_date))
 where a in (' ', ' ') -- 특정 문자 조건 condition for particular string
 
 select length 
