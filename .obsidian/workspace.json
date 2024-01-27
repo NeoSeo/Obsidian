@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-27.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-27.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-27.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-27.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "2024-01-27.md",
+    "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "2024-01-19.md",
     "Daily Done List.md",
     "README.md",
