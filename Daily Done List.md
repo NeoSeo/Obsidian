@@ -6,4 +6,4 @@
 01-20 Solved Leetcode join problems
 
 01-27 Proveed with Growth Hacking Up to Acquisition. [[2024-01-27]]
- Leetcode problems [Monthly Transactions](https://github.com/NeoSeo/Obsidian/blob/2200e8b86a489dd49589cc70a5c3038b31ac8780/SQL/pivot_example_2.sql)
+Practiced Leetcode problems [Monthly Transactions](https://github.com/NeoSeo/Obsidian/blob/2200e8b86a489dd49589cc70a5c3038b31ac8780/SQL/pivot_example_2.sql)

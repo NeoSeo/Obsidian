@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "2024-01-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "2024-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "2024-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Done List.md"
+                "file": "2024-01-27.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "2024-01-27.md",
     "Daily Done List.md",
+    "SQL/pivot_example_2.sql",
+    "2024-01-27.md",
     "SQL/SQL_reference.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "2024-01-19.md",
@@ -186,7 +187,6 @@
     "SQL/데이터분석_SQL_Fundamentals_240120_122418.pdf",
     "SQL/데이터분석_SQL_Fundamentals (conflict 2024-01-20-17-53-25).pdf",
     "Growth_Hacking/0-1 그로스해킹이란.pdf",
-    "Growth_Hacking/1-1 전제조건_PMF_240120_173244.pdf",
     "무제 파일.canvas",
     "Test.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
