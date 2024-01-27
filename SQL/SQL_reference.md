@@ -74,7 +74,7 @@ from emp
 group by deptno;
 
 
--- 같
+-- 같지만 다른 쿼리문. 아래는 case when으로 직업별 월급을 컬럼으로 만들었다.
 select job, sum(sal) as sales_sum
 from hr.emp a
 group by job;
@@ -85,6 +85,7 @@ select sum(case when job = 'SALESMAN' then sal end) as sales_sum
 , sum(case when job = 'CLERK' then sal end) as clerk_sum
 , sum(case when job = 'PRESIDENT' then sal end) as president_sum
 from emp;
+
 ```
 
 [[데이터분석_SQL_Fundamentals.pdf]]
