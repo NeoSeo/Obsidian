@@ -19,7 +19,7 @@ time hh24:mm:ss
 interval
 */
 to_date('2022-03-11','yyyy-mm-dd') -- 문자열을 날짜형으로 바꾸기 str to date type
-date_format(trans_date, '%Y-%m') -- MySQL
+date_format(trans_date, '%Y-%m') -- MySQL (https://devjhs.tistory.com/89 참고)
 to_timestamp('2022-03-11','yyyy-mm-dd hh24:mi:ss') -- 날짜및시간형으로 바꾸기 str to date&time
 to_char(hiredate, 'yyyy-mm-dd') -- 날짜를 string type으로 변환 date to str type
 to_date('2022-03-11','yyyy-mm-dd')::text -- 문자열로 바꿔줌 str to date, again date to str
