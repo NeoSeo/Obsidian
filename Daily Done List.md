@@ -8,3 +8,5 @@
 01-27 [[2024-01-27]] Proveed with Growth Hacking Up to Acquisition. [[Growth Hacking_1 PMF to Acquisition]]
 Practiced Leetcode problems [Monthly Transactions](https://github.com/NeoSeo/Obsidian/blob/2200e8b86a489dd49589cc70a5c3038b31ac8780/SQL/pivot_example_2.sql)
 Studying group by part using case when in Inflearn
+
+01-29 [[2024-01-29]] Learnt rollup and cube clause with group by
