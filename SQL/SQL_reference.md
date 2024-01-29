@@ -27,7 +27,9 @@ to_date('2022-03-11','yyyy-mm-dd')::text -- 문자열로 바꿔줌 str to date, 
 pg_typeof() -- 타입을 나타내줌 show variables type
 hiredate::timestamp -- ::을 활용한 빠른 변환 quick transform
 extract(year from hiredate) -- 연도 추출. worse syntax
-date_part('year', hiredate) -- 연도 추출. better clause than extract
+date_part('year', hiredate) -- 연도 추출. better clause than extract, oracle
+year(hiredate) -- mysql용 연도 추출
+
 
 select to_date('2024-03-11', 'yyyy-mm-dd') + 2 -- 2일 더하기 add 2 days
 select to_timestamp('2024-02-11 13:24:35', 'yyyy-mm-dd hh24:mi:ss') + interval'10hour' -- 10시간 더하기 add 10 hours
