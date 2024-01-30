@@ -38,6 +38,7 @@
 
 # Reference for jobs related to data
 [30/40대에 데이터 사이언스로 커리어 체인지를 생각한다면](https://brunch.co.kr/@carmenlee/41)
+
 [미국 데이터 사이언스 테크니컬 테스트](https://brunch.co.kr/@carmenlee/36)
 
 
