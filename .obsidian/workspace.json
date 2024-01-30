@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "Daily Done List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "Daily Done List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "Daily Done List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL_reference.md"
+                "file": "Daily Done List.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "Daily Done List.md",
     "2024-01-29.md",
+    "Daily Done List.md",
+    "SQL/SQL_reference.md",
     "2024-01-19.md",
     "README.md",
     "2024-01-27.md",
     "데이터 사이언스로 커리어 체인지를 생각한다면.md",
-    "SQL/SQL_reference.md",
     "Growth_Hacking/2-2-2 Acquisition 2.pdf",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Growth_Hacking/그로스 해킹_정리2.pdf",
