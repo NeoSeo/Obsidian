@@ -11,4 +11,4 @@ Studying group by part using case when in Inflearn
 
 [[2024-01-29]] Learnt rollup and cube clause with group by
 
-[[2024-02-04]] 
+[[2024-02-04]] Closed acquisition part in growth hacking, we need to specify ROAS window range for each cha
