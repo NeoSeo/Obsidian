@@ -93,7 +93,7 @@ select *, sum(sal) over(partition by deptno order by hiredate nulls last rows be
 from hr.emp a;
  [[2024-02-04]]
 -- Keep an order : partition clause -> sorting clause -> window(range) clause
-
+-- rank function doesn't require windown function
 
 ```
 
