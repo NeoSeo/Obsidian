@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Done List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily Done List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily Done List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily Done List.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "2024-02-04.md",
+    "Growth_Hacking/그로스 해킹3.pdf",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Growth_Hacking/그로스 해킹_정리2.pdf",
+    "2024-02-04.md",
+    "README.md",
     "Growth_Hacking/2-2-2 Acquisition 2.pdf",
     "Growth_Hacking/2-2-3 Acquisition 3.pdf",
     "2024-01-19.md",
@@ -171,14 +173,12 @@
     "SQL/Percentage of user contest.pdf",
     "SQL/Example of range.png",
     "Growth_Hacking/2-3 Activation.pdf",
-    "README.md",
     "SQL/rank_example.sql",
     "Python/Python_reference.md",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/rollup_cube.sql",
     "데이터 사이언스로 커리어 체인지를 생각한다면.md",
     "SQL/pivot_example_2.sql",
-    "SQL/groupby_example.sql",
     "무제 파일.canvas",
     "Test.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
