@@ -89,7 +89,7 @@ select sum(case when job = 'SALESMAN' then sal end) as sales_sum
 from emp;
 
 -- Analytic SQL sample
-select *, sum(sal) over(partition by deptno order by hiredate rows between unbounded preceding and current row) as sum
+select *, sum(sal) over(partition by deptno order by hiredate nulls last rows between unbounded preceding and current row) as sum
 from hr.emp a;
  [[2024-02-04]]
 -- Keep an order : partition clause -> sorting clause -> window(range) clause
