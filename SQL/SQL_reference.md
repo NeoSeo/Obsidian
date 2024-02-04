@@ -93,8 +93,13 @@ select *, sum(sal) over(partition by deptno order by hiredate nulls last rows be
 from hr.emp a;
  [[2024-02-04]]
 -- Keep an order : partition clause -> sorting clause -> window(range) clause
--- rank function doesn't require windown function
+-- rank functions don't require windown function
 
+select *
+	   , sum(amount) over (partition by order_id) as total
+	   , sum(amount) over (partition by order_id order by line_prod_seq) as cum_sum -- sum analytic 함수에 order by를 추가하면서 누적합계가 만들어짐
+from nw.order_items
+ 
 ```
 
 [[데이터분석_SQL_Fundamentals.pdf]]
