@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL_reference.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Daily Done List.md",
+    "SQL/SQL_reference.md",
     "2024-02-04.md",
     "2024-01-29.md",
-    "SQL/SQL_reference.md",
     "Growth_Hacking/2-3 Activation.pdf",
-    "Daily Done List.md",
     "README.md",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/Pasted image 20240204163145.png",
