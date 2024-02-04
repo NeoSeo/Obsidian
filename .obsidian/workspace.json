@@ -11,11 +11,9 @@
             "id": "cd7d26172e012022",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Daily Done List.md",
-                "mode": "source",
-                "source": false
+                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Done List.md"
+                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
               }
             }
           },
@@ -158,6 +156,7 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Daily Done List.md",
     "Growth_Hacking/그로스 해킹3.pdf",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Growth_Hacking/그로스 해킹_정리2.pdf",
@@ -168,7 +167,6 @@
     "2024-01-19.md",
     "2024-01-27.md",
     "2024-01-29.md",
-    "Daily Done List.md",
     "SQL/SQL_reference.md",
     "SQL/Percentage of user contest.pdf",
     "SQL/Example of range.png",
