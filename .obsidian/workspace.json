@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL_reference.md"
+                "file": "2024-02-04.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "2024-02-04.md",
     "SQL/SQL_reference.md",
+    "2024-02-04.md",
     "Daily Done List.md",
     "README.md",
     "2024-01-29.md",
