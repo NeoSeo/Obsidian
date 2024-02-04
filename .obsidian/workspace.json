@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-04.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-04.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-04.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-04.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "2024-02-04.md",
     "Growth_Hacking/2-3 Activation.pdf",
     "SQL/SQL_reference.md",
-    "2024-02-04.md",
     "Daily Done List.md",
     "README.md",
     "2024-01-29.md",
@@ -178,7 +178,6 @@
     "SQL/pivot_example_2.sql",
     "SQL/groupby_example.sql",
     "SQL/with.nullvalue_example.sql",
-    "SQL/select_subquery_example.sql",
     "무제 파일.canvas",
     "Test.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
