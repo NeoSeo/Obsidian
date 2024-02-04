@@ -88,6 +88,7 @@ select sum(case when job = 'SALESMAN' then sal end) as sales_sum
 , sum(case when job = 'PRESIDENT' then sal end) as president_sum
 from emp;
 
+
 ```
 
 [[데이터분석_SQL_Fundamentals.pdf]]

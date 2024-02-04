@@ -11,9 +11,11 @@
             "id": "cd7d26172e012022",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
+                "file": "SQL/SQL_reference.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -157,8 +159,9 @@
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
     "2024-02-04.md",
-    "Daily Done List.md",
     "2024-01-29.md",
+    "SQL/데이터분석_SQL_Fundamentals.pdf",
+    "Daily Done List.md",
     "SQL/Pasted image 20240204163145.png",
     "2024-01-19.md",
     "README.md",
@@ -175,7 +178,6 @@
     "SQL/groupby_example.sql",
     "SQL/with.nullvalue_example.sql",
     "SQL/select_subquery_example.sql",
-    "SQL/데이터분석_SQL_Fundamentals.pdf",
     "무제 파일.canvas",
     "Test.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
