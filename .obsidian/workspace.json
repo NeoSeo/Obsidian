@@ -11,9 +11,11 @@
             "id": "cd7d26172e012022",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
+                "file": "Daily Done List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
+                "file": "Daily Done List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
+                "file": "Daily Done List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
+                "file": "Daily Done List.md"
               }
             }
           },
@@ -156,13 +158,16 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
+    "Daily Done List.md",
+    "SQL/데이터분석_SQL_Fundamentals.pdf",
+    "SQL/Example of range.png",
     "SQL/SQL_reference.md",
     "Growth_Hacking/그로스 해킹3.pdf",
-    "SQL/데이터분석_SQL_Fundamentals.pdf",
     "Growth_Hacking/2-2-2 Acquisition 2.pdf",
     "Growth_Hacking/2-2-3 Acquisition 3.pdf",
     "2024-02-04.md",
-    "Daily Done List.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Growth_Hacking/그로스 해킹_정리2.pdf",
     "README.md",
@@ -170,7 +175,6 @@
     "2024-01-27.md",
     "2024-01-29.md",
     "SQL/Percentage of user contest.pdf",
-    "SQL/Example of range.png",
     "Growth_Hacking/2-3 Activation.pdf",
     "SQL/rank_example.sql",
     "Python/Python_reference.md",
@@ -179,8 +183,6 @@
     "SQL/pivot_example_2.sql",
     "무제 파일.canvas",
     "Test.md",
-    "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
     "Pasted image 20240119190115.png",
     "README (conflict 2024-01-19-02-27-25).md",
     "Obsidian/SQL/SQL_reference.md",
