@@ -6,7 +6,7 @@
 #### Python: Beginner 
 
 
-# Lecture Plan
+# Study Plan
 
 ✅[[백문이불여일타] 데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-sql/dashboard) ■■■■■
 
@@ -14,7 +14,7 @@
 
 [데이터 분석 SQL Fundamentals](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%ED%8E%80%EB%8D%94%EB%A9%98%ED%83%88/dashboard) ■■■
 
-[파이썬입문과 크롤링기초 부트캠프 [파이썬, 웹, 데이터 이해 기본까지]](https://www.inflearn.com/course/python-crawling-basic/dashboard) ■
+[파이썬입문과 크롤링기초 부트캠프 - 파이썬, 웹, 데이터 이해 기본까지](https://www.inflearn.com/course/python-crawling-basic/dashboard) ■
 
 [다양한 사례로 익히는 SQL 데이터 분석](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%EC%82%AC%EB%A1%80%EC%A4%91%EC%8B%AC/dashboard)
 
