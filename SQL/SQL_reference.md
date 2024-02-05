@@ -7,7 +7,17 @@
 like 'q%' -- any letter set after q
 not like 'q__' -- any 2 letters after q
 -- Regular expression
-where country REGEXP '^[]'
+where country REGEXP '^[a,e,d].*[c,e,g]$' -- starting with a or e or d, and finished with c,e,g// .* means any letters like %
+
+-- Slicing
+left('20240203', 4) = 2024
+right('20240203', 4) = 0203
+substr('20240203', 1, 5) = 20240
+
+-- Conditional
+if(sal >= 2000,'High', 'Low')
+case when sal >= 2000 then 'Hihg' else 'Low' end
+case sal when >=
 
 where between cast('2024-01-02 02:00:00' as timestamp) and cast('2024-01-04 02:00:00' as timestamp) -- date or datetime is available
 
