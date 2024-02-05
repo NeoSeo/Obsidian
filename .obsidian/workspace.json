@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL_reference.md"
+                "file": "2024-02-04.md"
               }
             }
           },
@@ -159,21 +159,21 @@
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
     "Daily Done List.md",
+    "2024-02-04.md",
+    "2024-01-29.md",
+    "SQL/SQL_reference.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/Example of range.png",
-    "SQL/SQL_reference.md",
     "Growth_Hacking/그로스 해킹3.pdf",
     "Growth_Hacking/2-2-2 Acquisition 2.pdf",
     "Growth_Hacking/2-2-3 Acquisition 3.pdf",
-    "2024-02-04.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Growth_Hacking/그로스 해킹_정리2.pdf",
     "README.md",
     "2024-01-19.md",
     "2024-01-27.md",
-    "2024-01-29.md",
     "SQL/Percentage of user contest.pdf",
     "Growth_Hacking/2-3 Activation.pdf",
     "SQL/rank_example.sql",
