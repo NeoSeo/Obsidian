@@ -2,6 +2,15 @@
 ---
 
 ```sql
+
+-- reference expression
+like 'q%' -- any letter set after q
+not like 'q__' -- any 2 letters after q
+-- Regular expression
+where country REGEXP '^[]'
+
+where between cast('2024-01-02 02:00:00' as timestamp) and cast('2024-01-04 02:00:00' as timestamp) -- date or datetime is available
+
 select year||'&'||month -- concat
 select concat(year(trans_date),'-',month(trans_date))
 where a in (' ', ' ') -- 특정 문자 조건 condition for particular string
