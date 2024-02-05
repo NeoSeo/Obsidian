@@ -1,4 +1,7 @@
 
+# Projects & Leetcode
+[Leetcode]
+
 # Skills Confidence
 
 #### Microsoft Excel: Super 🚀🚀

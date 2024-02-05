@@ -18,3 +18,4 @@ Learnt analytics of SQL. rank(), dense_rank, row_number() over (partition by ~ o
 Window functions are used in arregation function like max(),min(),sum(),avg(),count()
 We use window function such as rows between unbounded preceding and current row (or range unbounded preceding and current row)
 
+[[2024-02-05]] Solved aggregation problems and learnt. Learnt difference of rows and range and moving average using window function
