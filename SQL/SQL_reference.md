@@ -4,8 +4,9 @@
 ```sql
 
 -- reference expression
-like 'q%' -- any letter set after q
-not like 'q__' -- any 2 letters after q
+where country like 'q%' -- any letter set after q
+where country not like 'q__' -- any 2 letters after q
+
 -- Regular expression
 where country REGEXP '^[a,e,d].*[c,e,g]$' -- starting with a or e or d, and finished with c,e,g// .* means any letters like %
 
@@ -17,9 +18,10 @@ substr('20240203', 1, 5) = 20240
 -- Conditional
 if(sal >= 2000,'High', 'Low')
 case when sal >= 2000 then 'Hihg' else 'Low' end
-case sal when >=
-
-where between cast('2024-01-02 02:00:00' as timestamp) and cast('2024-01-04 02:00:00' as timestamp) -- date or datetime is available
+case sal when >= 2000 then 'High'
+		 when < 2000 and >= 1000 then 'Middle'
+		 else 'low'
+		 end
 
 select year||'&'||month -- concat
 select concat(year(trans_date),'-',month(trans_date))
@@ -31,12 +33,17 @@ select char_length -- 바이트 혹은 그 자체의 글자수 처리 counting t
 select sum(if(c.action="confirmed",1,0)) -- pivot using if clause
 where datediff(date1, date2)=1 -- 날짜 차이가 1, math date difference
 
-/* 날짜 예문 date examples
+-- 날짜 예문 date examples
 date yyyy-mm-dd
 timestamp yyyy-mm-dd hh:mm:ss
 time hh24:mm:ss
 interval
-*/
+
+SELECT DATE_ADD(NOW(), INTERVAL 1 SECOND)
+SELECT DATE_SUB(NOW(), INTERVAL 1 SECOND)
+
+where between cast('2024-01-02 02:00:00' as timestamp) and cast('2024-01-04 02:00:00' as timestamp) -- date or datetime is available
+
 to_date('2022-03-11','yyyy-mm-dd') -- 문자열을 날짜형으로 바꾸기 str to date type
 date_format(trans_date, '%Y-%m') -- MySQL (https://devjhs.tistory.com/89 참고)
 to_timestamp('2022-03-11','yyyy-mm-dd hh24:mi:ss') -- 날짜및시간형으로 바꾸기 str to date&time
@@ -48,7 +55,6 @@ hiredate::timestamp -- ::을 활용한 빠른 변환 quick transform
 extract(year from hiredate) -- 연도 추출. worse syntax
 date_part('year', hiredate) -- 연도 추출. better clause than extract, oracle
 year(hiredate) -- mysql용 연도 추출
-
 
 select to_date('2024-03-11', 'yyyy-mm-dd') + 2 -- 2일 더하기 add 2 days
 select to_timestamp('2024-02-11 13:24:35', 'yyyy-mm-dd hh24:mi:ss') + interval'10hour' -- 10시간 더하기 add 10 hours
