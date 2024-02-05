@@ -1,7 +1,7 @@
 
 # Skills Confidence
 
-#### Microsoft Excel: Super 🚀🚀🚀
+#### Microsoft Excel: Super 🚀🚀
 #### SQL: Skillful 🚀🏆 [Hackerrank Certificate](https://www.hackerrank.com/certificates/e689d6a4b99f)
 #### Python: Beginner 
 
