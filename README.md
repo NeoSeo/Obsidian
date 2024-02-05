@@ -1,6 +1,6 @@
 
 # Projects & Leetcode
-- [Leetcode TOP SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+- [Leetcode TOP SQL 50](https://leetcode.com/studyplan/top-sql-50/) [Leetcode Github repository](https://github.com/NeoSeo/Obsidian/tree/main/SQL)
 
 # Skills Confidence
 
