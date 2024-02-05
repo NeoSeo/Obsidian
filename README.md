@@ -1,6 +1,6 @@
 
 # Projects & Leetcode
-[Leetcode]
+- [Leetcode TOP SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
 # Skills Confidence
 
@@ -19,6 +19,8 @@
 
 [파이썬입문과 크롤링기초 부트캠프 - 파이썬, 웹, 데이터 이해 기본까지](https://www.inflearn.com/course/python-crawling-basic/dashboard) ■
 
+[Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/)
+
 [다양한 사례로 익히는 SQL 데이터 분석](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%EC%82%AC%EB%A1%80%EC%A4%91%EC%8B%AC/dashboard)
 
 [그로스해킹 - 데이터와 실험을 통해 성장하는 서비스를 만드는 방법](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%ED%8E%80%EB%8D%94%EB%A9%98%ED%83%88/dashboard)■
@@ -36,7 +38,6 @@
 [PM을 위한 데이터 리터러시(프로덕트 데이터 분석)](https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C)
 
 [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
-
 
 
 # Reference for jobs related to data
