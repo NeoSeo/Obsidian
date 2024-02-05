@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "README.md",
     "2024-02-04.md",
     "Daily Done List.md",
     "2024-01-29.md",
@@ -171,7 +172,6 @@
     "Growth_Hacking/2-2-3 Acquisition 3.pdf",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Growth_Hacking/그로스 해킹_정리2.pdf",
-    "README.md",
     "2024-01-19.md",
     "2024-01-27.md",
     "SQL/Percentage of user contest.pdf",
