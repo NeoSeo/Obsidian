@@ -124,7 +124,11 @@ select *
 	   , sum(amount) over (partition by order_id) as total
 	   , sum(amount) over (partition by order_id order by line_prod_seq) as cum_sum -- sum analytic 함수에 order by를 추가하면서 누적합계가 만들어짐
 from nw.order_items
- 
+
+create table emp (id int, ename str, salary int)
+insert into emp values (1, 'Neo', '1000')
+insert into emp values (2, 'Yongwon', '2000')
+
 ```
 
 [[데이터분석_SQL_Fundamentals.pdf]]
