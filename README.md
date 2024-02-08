@@ -5,15 +5,15 @@
 # Skills Confidence
 
 #### Microsoft Excel: Super 🚀🚀
-#### SQL: Skillful 🚀🏆 [Hackerrank Certificate](https://www.hackerrank.com/certificates/e689d6a4b99f)
+#### SQL: Skillful 🚀🏆 [Hackerrank SQL Intermediate Certificate](https://www.hackerrank.com/certificates/e689d6a4b99f)
 #### Python: Beginner 
 
 
 # Study Plan
 
-✅[[백문이불여일타] 데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-sql/dashboard) ■■■■■ 
+✅[[백문이불여일타] 데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-sql/dashboard) ■■■■■ [Certificate](https://www.inflearn.com/certificate/202829-324605-2065655)
 
-✅[데이터 분석을 위한 파이썬: 입문부터 꿀팁까지](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88/dashboard) ■■■■■
+✅[데이터 분석을 위한 파이썬: 입문부터 꿀팁까지](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88/dashboard) ■■■■■ [Certificate](https://www.inflearn.com/certificate/202829-326564-4813288)
 
 [데이터 분석 SQL Fundamentals](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%ED%8E%80%EB%8D%94%EB%A9%98%ED%83%88/dashboard) ■■■
 
