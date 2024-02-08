@@ -131,5 +131,8 @@ insert into emp values (2, 'Yongwon', '2000')
 
 ```
 
+
+
+
 [[데이터분석_SQL_Fundamentals.pdf]]
 
