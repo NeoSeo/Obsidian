@@ -113,21 +113,31 @@ select sum(case when job = 'SALESMAN' then sal end) as sales_sum
 , sum(case when job = 'PRESIDENT' then sal end) as president_sum
 from emp;
 
+
+-- table create
+create table emp (id int, ename str, salary int)
+insert into emp values (1, 'Neo', '1000')
+insert into emp values (2, 'Yongwon', '2000')
+
+
 -- Analytic SQL sample
+
+-- *********************************************************
+-- rank functions don't use windown function, can omit partition by, require order by
+-- aggregate fucnctions can omit partition by, order by(for cumulation), use window clause for dynamic calculation such as moving average (이동평균)
+--
+
+
 select *, sum(sal) over(partition by deptno order by hiredate nulls last rows between unbounded preceding and current row) as sum
 from hr.emp a;
  [[2024-02-04]]
 -- Keep an order : partition clause -> sorting clause -> window(range) clause
--- rank functions don't require windown function
+
 
 select *
 	   , sum(amount) over (partition by order_id) as total
 	   , sum(amount) over (partition by order_id order by line_prod_seq) as cum_sum -- sum analytic 함수에 order by를 추가하면서 누적합계가 만들어짐
 from nw.order_items
-
-create table emp (id int, ename str, salary int)
-insert into emp values (1, 'Neo', '1000')
-insert into emp values (2, 'Yongwon', '2000')
 
 ```
 
