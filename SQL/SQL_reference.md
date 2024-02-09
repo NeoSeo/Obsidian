@@ -125,8 +125,10 @@ insert into emp values (2, 'Yongwon', '2000')
 -- *********************************************************
 -- rank functions don't use windown function, can omit partition by, require order by
 -- aggregate fucnctions can omit partition by, order by(for cumulation), use window clause for dynamic calculation such as moving average (이동평균)
---
+-- lag(), lead() can omit partition by, but require order by, don't use windown (instead use offset)
+-- first_value(), last_value() can omit partition by, but require order by
 
+-- *********************************************************
 
 select *, sum(sal) over(partition by deptno order by hiredate nulls last rows between unbounded preceding and current row) as sum
 from hr.emp a;
@@ -138,6 +140,9 @@ select *
 	   , sum(amount) over (partition by order_id) as total
 	   , sum(amount) over (partition by order_id order by line_prod_seq) as cum_sum -- sum analytic 함수에 order by를 추가하면서 누적합계가 만들어짐
 from nw.order_items
+
+
+
 
 ```
 

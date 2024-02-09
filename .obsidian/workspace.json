@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL_reference.md"
+                "file": "2024-02-08.md"
               }
             }
           },
@@ -158,9 +158,17 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "SQL/SQL_reference.md",
+    "SQL/leetcode/with.nullvalue_example.sql",
+    "SQL/leetcode/select_subquery_example.sql",
+    "SQL/leetcode/pivot_example_2.sql",
+    "SQL/leetcode/pivot_example.sql",
+    "SQL/leetcode/groupby_datediff_User Activity for the Past 30 Days.sql",
+    "SQL/leetcode/datediff_crossjoin_example.sql",
+    "SQL/leetcode/date_between_using_non_equijoin_example.sql",
+    "SQL/leetcode",
     "2024-02-05.md",
     "2024-02-08.md",
-    "SQL/SQL_reference.md",
     "2024-02-04.md",
     "2024-01-29.md",
     "2024-01-27.md",
@@ -170,14 +178,6 @@
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Growth_Hacking/2-3 Activation.pdf",
     "Growth_Hacking/2-2-3 Acquisition 3.pdf",
-    "Growth_Hacking/2-2-2 Acquisition 2.pdf",
-    "Growth_Hacking/2-2-1 Acquisition.pdf",
-    "Growth_Hacking/2-1 AARRR.pdf",
-    "Growth_Hacking/1-1 전제조건_PMF.pdf",
-    "Growth_Hacking/Original/2-1 AARRR.pdf",
-    "Growth_Hacking/Original/2-2-3 Acquisition 3.pdf",
-    "Growth_Hacking/Original/1-1 전제조건_PMF.pdf",
-    "Growth_Hacking/Original/2-4 Retention.pdf",
     "SQL/Example of range.png",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
