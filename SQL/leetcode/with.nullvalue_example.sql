@@ -10,7 +10,7 @@ from Queries q
 Where NOT q.query_name IS NULL
 group by 1
 
--- if we don't use null in where, query_name is null happened. 
+-- *********************** if we don't use null in where, query_name is null happened. 
 /*
 +-------------+---------+
 | Column Name | Type    |
