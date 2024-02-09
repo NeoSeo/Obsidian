@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2024-02-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2024-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2024-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2024-02-08.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "SQL/SQL_reference.md",
-    "README.md",
     "Daily Done List.md",
+    "2024-02-08.md",
+    "2024-02-05.md",
+    "README.md",
+    "SQL/SQL_reference.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Growth_Hacking/2-3 Activation.pdf",
     "Growth_Hacking/2-2-3 Acquisition 3.pdf",
@@ -175,7 +177,6 @@
     "SQL/Example of range.png",
     "2024-02-04.md",
     "2024-01-29.md",
-    "2024-02-05.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
     "2024-01-19.md",
