@@ -5,7 +5,7 @@
 # Skills Confidence
 
 #### Microsoft Excel: Super 🚀🚀
-#### SQL: Skillful 🚀🏆 [Hackerrank SQL Intermediate Certificate](https://www.hackerrank.com/certificates/e689d6a4b99f)
+#### SQL: Skillful 🚀🏆 [Hackerrank SQL Intermediate Certificate](https://www.hackerrank.com/certificates/e689d6a4b99f), [SQLD Certificate](http://101.79.81.82:8080/oz80/ExamDACertification_new.jsp?APLY_SEQ=1009154&ConfirmKey=766764)
 #### Python: Beginner 
 
 
