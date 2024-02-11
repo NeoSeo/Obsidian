@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Growth_Hacking/2-1 AARRR.pdf"
+                "file": "Growth_Hacking/그로스 해킹3.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Growth_Hacking/2-1 AARRR.pdf",
+                "file": "Growth_Hacking/그로스 해킹3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Growth_Hacking/2-1 AARRR.pdf",
+                "file": "Growth_Hacking/그로스 해킹3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Growth_Hacking/2-1 AARRR.pdf"
+                "file": "Growth_Hacking/그로스 해킹3.pdf"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Growth_Hacking/2-1 AARRR.pdf",
     "2024-02-11.md",
     "Growth_Hacking/2-4 Retention.pdf",
     "2024-02-08.md",
