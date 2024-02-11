@@ -21,5 +21,6 @@ We use window function such as rows between unbounded preceding and current row 
 [[2024-02-05]] Solved aggregation problems and learnt. Learnt difference of rows and range and moving average using window function
 
 [[2024-02-08]] Learnt activation part in growth hacking that importance of cohort in funnel.
-
+Learnt lead(), lag(), first_value(), last_value() and other analytic clause of SQL
+Be cautiou when you use range or rows as window. range 
 
