@@ -11,9 +11,11 @@
             "id": "cd7d26172e012022",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Growth_Hacking/그로스 해킹3.pdf"
+                "file": "Daily Done List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Growth_Hacking/그로스 해킹3.pdf",
+                "file": "Daily Done List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Growth_Hacking/그로스 해킹3.pdf",
+                "file": "Daily Done List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Growth_Hacking/그로스 해킹3.pdf"
+                "file": "Daily Done List.md"
               }
             }
           },
@@ -156,10 +158,11 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "Growth_Hacking/2-1 AARRR.pdf",
     "2024-02-11.md",
-    "Growth_Hacking/2-4 Retention.pdf",
     "2024-02-08.md",
+    "Growth_Hacking/그로스 해킹3.pdf",
+    "Growth_Hacking/2-1 AARRR.pdf",
+    "Growth_Hacking/2-4 Retention.pdf",
     "Daily Done List.md",
     "SQL/SQL_reference.md",
     "Growth_Hacking/Original/2-5 Revenue.pdf",
@@ -170,8 +173,6 @@
     "SQL/leetcode/pivot_example.sql",
     "SQL/leetcode/groupby_datediff_User Activity for the Past 30 Days.sql",
     "SQL/leetcode/datediff_crossjoin_example.sql",
-    "SQL/leetcode/date_between_using_non_equijoin_example.sql",
-    "SQL/leetcode",
     "2024-02-05.md",
     "2024-02-04.md",
     "2024-01-29.md",

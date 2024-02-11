@@ -20,3 +20,6 @@ We use window function such as rows between unbounded preceding and current row 
 
 [[2024-02-05]] Solved aggregation problems and learnt. Learnt difference of rows and range and moving average using window function
 
+[[2024-02-08]] Learnt activation part in growth hacking that importance of cohort in funnel.
+
+
