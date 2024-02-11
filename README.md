@@ -23,11 +23,11 @@
 
 [파이썬입문과 크롤링기초 부트캠프 - 파이썬, 웹, 데이터 이해 기본까지](https://www.inflearn.com/course/python-crawling-basic/dashboard) ■
 
-[실리콘밸리 엔지니어가 가르치는 파이썬 기초부터 고급까지](https://www.inflearn.com/course/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EA%B3%A0%EA%B8%89%EA%B9%8C%EC%A7%80/dashboard)
-
 [이것이 진짜 크롤링이다 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88/dashboard)
 
 [사무직 칼퇴 필수 기술 : 파이썬 업무 자동화 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
+
+[실리콘밸리 엔지니어가 가르치는 파이썬 기초부터 고급까지](https://www.inflearn.com/course/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EA%B3%A0%EA%B8%89%EA%B9%8C%EC%A7%80/dashboard)
 
 [Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/)
 
