@@ -22,5 +22,7 @@ We use window function such as rows between unbounded preceding and current row 
 
 [[2024-02-08]] Learnt activation part in growth hacking that importance of cohort in funnel.
 Learnt lead(), lag(), first_value(), last_value() and other analytic clause of SQL
-Be cautiou when you use range or rows as window. range 
+Be cautiou when you use range or rows as window. row with aggregation consider each same value each, but range not (ex 5000 + 9/1 1000 + 9/2 1000(order by month) = 5000 -> 6000 -> 7000 using ROWS, but for RANGE 5000 -> 7000 -> 7000)
+
+[[2024-02-11]] Learnt retention part in gor
 
