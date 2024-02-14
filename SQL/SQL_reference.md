@@ -189,7 +189,7 @@ select a.empno, ename, sal
 from hr.emp a
 cross join temp_01 b
 order by sal; 
--- 실행하면 0.25에 해당하는 1250 cume_dist값에서는 0.33정도로 나온다.(discrete 특성)
+-- 실행하면 0.25를 첫번 째로 넣는 1250가 0.25값으로 나옮 cume_dist값에서는 0.33정도로 나온다.(discrete 특성)
 
 ```
 
