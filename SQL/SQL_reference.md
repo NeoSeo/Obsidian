@@ -191,6 +191,14 @@ cross join temp_01 b
 order by sal; 
 -- 실행하면 0.25를 첫번 째로 넣는 1250가 0.25값으로 나옮 cume_dist값에서는 0.33정도로 나온다.(discrete 특성)
 
+select 'cont' as gubun
+, percentile_cont(0.25) within group (order by sal) as qt_1
+, percentile_cont(0.5) within group (order by sal) as qt_2
+, percentile_cont(0.75) within group (order by sal) as qt_3
+, percentile_cont(1.0) within group (order by sal) as qt_4
+from hr.emp
+-- disc는 기존에 있는 값에서 가져오지면 cont는 해당하는 값을 산출해서 보여줌
+
 ```
 
 
