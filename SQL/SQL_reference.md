@@ -157,7 +157,13 @@ select empno, deptno, hiredate, ename
 , lead(ename,1,'NoNext') over (partition by deptno order by hiredate) as nextname
 from emp
 
+select empno, ename, deptno, hiredate, sal
+, first_value(sal) over (partition by deptno order by hiredate) as first_hiredate_sal
+from emp;
 
+select empno, ename, deptno, hiredate, sal
+, last_value(sal) over (partition by deptno order by hiredate rows between unbounded preceding and unbounded following) as last_hiredate_sal
+from emp; -- 반드시 unbounded preceding and unbounded following이다
 
 ```
 
