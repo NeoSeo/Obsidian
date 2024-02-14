@@ -26,3 +26,4 @@ Be cautiou when you use range or rows as window. row with aggregation consider e
 
 [[2024-02-11]] Learnt retention part in growth hacking that classic retention and range retention and its pros and cons. Cohort is also important to measure retention rate. (period, events etc)
 
+[[2024-02-14]] Learnt percentile_disc

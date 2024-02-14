@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Done List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily Done List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily Done List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily Done List.md"
               }
             }
           },
@@ -158,13 +158,16 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "SQL/SQL_reference.md",
     "2024-02-14.md",
+    "Daily Done List.md",
+    "README.md",
+    "2024-01-29.md",
+    "2024-01-27.md",
+    "2024-02-04.md",
+    "2024-02-05.md",
     "2024-02-11.md",
     "2024-02-08.md",
-    "SQL/SQL_reference.md",
-    "Daily Done List.md",
-    "2024-02-05.md",
-    "README.md",
     "Growth_Hacking/그로스 해킹3.pdf",
     "Growth_Hacking/2-1 AARRR.pdf",
     "Growth_Hacking/2-4 Retention.pdf",
@@ -175,9 +178,6 @@
     "SQL/leetcode/pivot_example.sql",
     "SQL/leetcode/groupby_datediff_User Activity for the Past 30 Days.sql",
     "SQL/leetcode/datediff_crossjoin_example.sql",
-    "2024-02-04.md",
-    "2024-01-29.md",
-    "2024-01-27.md",
     "2024-01-19.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "SQL/Example of range.png",
