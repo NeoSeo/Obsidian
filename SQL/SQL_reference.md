@@ -174,9 +174,22 @@ select a.empno, ename, job, sal
 from hr.emp a;
 
 [[2024-02-14]] percentile
+with
+temp_01 as
+(
 select percentile_disc(0.25) within group (order by sal) as qt_1
 , percentile_disc(0.5) within group (order by sal) as qt_2
-from hr.emp; 
+, percentile_disc(0.75) within group (order by sal) as qt_3
+, percentile_disc(1.0) within group (order by sal) as qt_4
+from hr.emp
+)
+select a.empno, ename, sal
+, cume_dist() over (order by sal) as cume_dist
+, b.qt_1, b.qt_2, b.qt_3, b.qt_4
+from hr.emp a
+cross join temp_01 b
+order by sal; 
+-- 실행하면 0.25에 해당하는 1250 cume_dist값에서는 0.33정도로 나온다.(discrete 특성)
 
 ```
 
