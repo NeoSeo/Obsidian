@@ -145,6 +145,18 @@ select *
 from nw.order_items
 
 
+avg(sal) over (partition by deptno order by sal range between unbounded preceding and current row) as avg_range -- 같은 sal값이 있으면 동일하게 취급해서 보여준다. 
+, avg(sal) over (partition by deptno order by sal rows between unbounded preceding and current row) as avg_rows -- 같은 sal값이 있어도 하나씩 처리해도 보여준다.
+
+-- null일 경우 'noprev'이나 'nonext'를 보여줌
+select empno, deptno, hiredate, ename
+, lag(ename, 1, 'NoPrev') over (partition by deptno order by hiredate) as prevname
+from emp
+
+select empno, deptno, hiredate, ename
+, lead(ename,1,'NoNext') over (partition by deptno order by hiredate) as nextname
+from emp
+
 
 
 ```
