@@ -173,9 +173,10 @@ select a.empno, ename, job, sal
 , ntile(10) over (order by sal desc) as ntile
 from hr.emp a;
 
+[[2024-02-14]] percentile
 select percentile_disc(0.25) within group (order by sal) as qt_1
 , percentile_disc(0.5) within group (order by sal) as qt_2
-from hr.emp;
+from hr.emp; 
 
 ```
 
