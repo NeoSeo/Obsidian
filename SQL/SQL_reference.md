@@ -165,6 +165,14 @@ select empno, ename, deptno, hiredate, sal
 , last_value(sal) over (partition by deptno order by hiredate rows between unbounded preceding and unbounded following) as last_hiredate_sal
 from emp; -- 반드시 unbounded preceding and unbounded following이다
 
+select a.empno, ename, job, sal
+, rank() over(order by sal desc) as rank -- 랭크 순서대로
+, cume_dist() over (order by sal desc) as cume_dist -- 전체값 대비 정규적인 누적 확률
+, percent_rank() over (order by sal desc) as percent_rank -- 랭크 베이스로 퍼센티지 
+, 1.0 * (rank() over(order by sal desc) -1 )/11 as percent_rank_calc
+, ntile(10) over (order by sal desc) as ntile
+from hr.emp a;
+
 ```
 
 
