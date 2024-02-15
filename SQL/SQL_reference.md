@@ -199,7 +199,8 @@ select 'cont' as gubun
 from hr.emp
 -- disc는 기존에 있는 값에서 가져오지면 cont는 해당하는 값을 산출해서 보여줌
 
-
+select * from hr.dept where (deptno, loc) in (select deptno, 'DALLAS' from hr.emp where sal < 1300);
+-- you can use dept, loc at where clausse. When you use 'in', subqurey produces values using 'OR' condition 
 
 ```
 
