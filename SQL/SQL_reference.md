@@ -202,6 +202,11 @@ from hr.emp
 select * from hr.dept where (deptno, loc) in (select deptno, 'DALLAS' from hr.emp where sal < 1300);
 -- you can use dept, loc at where clausse. When you use 'in', subqurey produces values using 'OR' condition 
 
+-- 둘은 같은 값들을 보여주나 첫 쿼리는 group by 때문에 *를 쓰지 못하고 필요한 모든 컬럼명을 써줘야 한다.
+select customer_id,max(order_date) from orders group by customer_id order by customer_id
+select * from nw.orders where (customer_id, order_date) in (select customer_id, max(order_date) from nw.orders group by customer_id) order by customer_id;
+
+
 ```
 
 |               |   non-correlated    |     correlated      |
