@@ -158,6 +158,8 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "SQL/crossjoin_example.sql",
+    "SQL/3ways_extract_best_or_highest.sql",
     "2024-02-15.md",
     "SQL/SQL_reference.md",
     "Daily Done List.md",
@@ -178,7 +180,6 @@
     "SQL/leetcode/pivot_example_2.sql",
     "SQL/leetcode/pivot_example.sql",
     "SQL/leetcode/groupby_datediff_User Activity for the Past 30 Days.sql",
-    "SQL/leetcode/datediff_crossjoin_example.sql",
     "2024-01-19.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "SQL/Example of range.png",
@@ -196,7 +197,6 @@
     "Python/Obsidian/SQL/SQL_reference.md",
     "Python/Obsidian/README.md",
     "Python/Obsidian/Python/python_reference.md",
-    "2024-01-18.md",
     "Untitled.canvas"
   ]
 }
