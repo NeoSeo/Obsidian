@@ -27,7 +27,7 @@
   ],
   "editor:save-file": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "table-editor-obsidian:move-column-right": [
+  "table-editor-obsidian:next-cell": [
     {
       "modifiers": [
         "Mod"
