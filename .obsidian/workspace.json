@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -156,15 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd7d26172e012022",
+  "active": "c556f10849853a5e",
   "lastOpenFiles": [
     "Daily Done List.md",
+    "README.md",
     "2024-02-15.md",
     "SQL/SQL_reference.md",
     "SQL/crossjoin_example.sql",
     "SQL/3ways_extract_best_or_highest.sql",
     "2024-02-14.md",
-    "README.md",
     "2024-01-29.md",
     "2024-01-27.md",
     "2024-02-04.md",
