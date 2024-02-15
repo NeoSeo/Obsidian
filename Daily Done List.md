@@ -28,4 +28,4 @@ Be cautiou when you use range or rows as window. row with aggregation consider e
 
 [[2024-02-14]] Learnt percentile_disc(0.5) within group (order by sal)
 
-[[2024-02-15]] 
+[[2024-02-15]] Learnt correlation query and non-correlation queries using in
