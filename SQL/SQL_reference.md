@@ -199,9 +199,14 @@ select 'cont' as gubun
 from hr.emp
 -- disc는 기존에 있는 값에서 가져오지면 cont는 해당하는 값을 산출해서 보여줌
 
+
+
 ```
 
-
+|               |   non-correlated    |     correlated      |
+|:-------------:|:-------------------:|:-------------------:|
+|  unique row   | =, >, <, >=, <=, <> | =, >, <, >=, <=, <> |
+| multiple rows |     in, not in      | exists, not exists  |
 
 
 [[데이터분석_SQL_Fundamentals.pdf]]
