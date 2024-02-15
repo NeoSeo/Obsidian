@@ -28,4 +28,5 @@ Be cautiou when you use range or rows as window. row with aggregation consider e
 
 [[2024-02-14]] Learnt percentile_disc(0.5) within group (order by sal)
 
-[[2024-02-15]] Learnt correlation query and non-correlation queries using in
+[[2024-02-15]] Learnt correlation query and non-correlation queries using in or exists. In this case, subqueries are offering unique values to main queries, **NOT changing the level of sets of main queries **  
+
