@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Python/Python_reference.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "2024-02-17.md",
+    "Python/Python_reference.md",
+    "README.md",
     "SQL/SQL_reference.md",
     "Daily Done List.md",
-    "README.md",
     "2024-02-15.md",
     "SQL/crossjoin_example.sql",
     "SQL/3ways_extract_best_or_highest.sql",
@@ -184,7 +186,6 @@
     "SQL/Example of range.png",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
-    "Python/Python_reference.md",
     "데이터 사이언스로 커리어 체인지를 생각한다면.md",
     "무제 파일.canvas",
     "Test.md",
