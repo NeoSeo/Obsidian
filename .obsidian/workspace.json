@@ -160,6 +160,7 @@
   "lastOpenFiles": [
     "Python/Python_reference.md",
     "2024-02-17.md",
+    "Python/condition_example.py",
     "README.md",
     "SQL/SQL_reference.md",
     "Daily Done List.md",
@@ -180,7 +181,6 @@
     "SQL/leetcode/with.nullvalue_example.sql",
     "SQL/leetcode/select_subquery_example.sql",
     "SQL/leetcode/pivot_example_2.sql",
-    "SQL/leetcode/pivot_example.sql",
     "2024-01-19.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "SQL/Example of range.png",
@@ -196,7 +196,6 @@
     "Obsidian/Python/python_reference.md",
     "Python/Obsidian/SQL/SQL_reference.md",
     "Python/Obsidian/README.md",
-    "Python/Obsidian/Python/python_reference.md",
     "Untitled.canvas"
   ]
 }
