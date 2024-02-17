@@ -30,3 +30,4 @@ Be cautiou when you use range or rows as window. row with aggregation consider e
 
 [[2024-02-15]] Learnt correlation query and non-correlation queries using in or exists. In this case, subqueries are offering unique values to main queries, **NOT changing the level of sets of main queries **  
 
+[[2024-02-17]] Learnt python condition prose
