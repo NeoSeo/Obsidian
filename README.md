@@ -39,7 +39,9 @@
 
 [실리콘밸리 엔지니어가 가르치는 파이썬 기초부터 고급까지](https://www.inflearn.com/course/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EA%B3%A0%EA%B8%89%EA%B9%8C%EC%A7%80/dashboard)
 
+[Coursera Maching Learning Course](https://www.coursera.org/specializations/machine-learning-introduction)
 
+[Coursera Time Series]
 # Reference for jobs related to data
 [30/40대에 데이터 사이언스로 커리어 체인지를 생각한다면](https://brunch.co.kr/@carmenlee/41)
 
