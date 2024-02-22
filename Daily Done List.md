@@ -33,3 +33,4 @@ Be cautiou when you use range or rows as window. row with aggregation consider e
 [[2024-02-17]] Learnt python condition prose
 
 [[2024-02-22]] Practiced retention, expected revenue, conversion rate
+Chekced NOT in and NOT exists difference when NULL value exists in subquery
