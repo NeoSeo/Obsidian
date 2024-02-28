@@ -27,6 +27,8 @@
 
 [사무직 칼퇴 필수 기술 : 파이썬 업무 자동화 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
 
+
+
 [Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/)
 
 [처음하는 SQL과 데이터베이스(MySQL) 부트캠프 [입문부터 활용까지]](https://www.inflearn.com/course/sql-db-mysql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
