@@ -27,15 +27,15 @@
 
 [사무직 칼퇴 필수 기술 : 파이썬 업무 자동화 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
 
+[단 두 장의 문서로 데이터 분석과 시각화 뽀개기](https://www.inflearn.com/course/%ED%8C%90%EB%8B%A4%EC%8A%A4-pandas/dashboard)
 
+[공공데이터로 파이썬 데이터 분석 시작하기](https://www.inflearn.com/course/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0#)
 
 [Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/)
 
 [처음하는 SQL과 데이터베이스(MySQL) 부트캠프 [입문부터 활용까지]](https://www.inflearn.com/course/sql-db-mysql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
 
 [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
-
-[처음하는 MongoDB(몽고DB) 와 NoSQL(빅데이터) 데이터베이스 부트캠프 [입문부터 활용까지]](https://www.inflearn.com/course/nosql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AA%BD%EA%B3%A0db-%EC%9E%94%EC%9E%AC%EB%AF%B8%EC%BD%94%EB%94%A9)
 
 [PM을 위한 데이터 리터러시(프로덕트 데이터 분석)](https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C)
 
@@ -46,6 +46,8 @@
 [Coursera Time Series Course](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
 [Coursera Deep Learning Course](https://www.coursera.org/specializations/deep-learning)
+
+[처음하는 MongoDB(몽고DB) 와 NoSQL(빅데이터) 데이터베이스 부트캠프 [입문부터 활용까지]](https://www.inflearn.com/course/nosql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AA%BD%EA%B3%A0db-%EC%9E%94%EC%9E%AC%EB%AF%B8%EC%BD%94%EB%94%A9)
 # Reference for jobs related to data
 [30/40대에 데이터 사이언스로 커리어 체인지를 생각한다면](https://brunch.co.kr/@carmenlee/41)
 
