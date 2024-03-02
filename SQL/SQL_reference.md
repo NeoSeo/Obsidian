@@ -35,7 +35,8 @@ where datediff(date1, date2)=1 -- 날짜 차이가 1, math date difference
 
 -- 날짜 예문 date examples
 date yyyy-mm-dd
-timestamp yyyy-mm-dd hh:mm:ss
+datetime yyyy-mm-dd hh:mm:ss
+timestamp yyyy-mm-dd hh:mm:ss -- 시간존 포함
 time hh24:mm:ss
 interval
 
