@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-29.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cube",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-29.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-29.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-29.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -159,6 +158,8 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "SQL/Percentage of user contest.pdf",
+    "2024-01-29.md",
     "SQL/SQL_reference.md",
     "README.md",
     "Daily Done List.md",
@@ -170,7 +171,6 @@
     "SQL/crossjoin_example.sql",
     "SQL/3ways_extract_best_or_highest.sql",
     "2024-02-14.md",
-    "2024-01-29.md",
     "2024-01-27.md",
     "2024-02-04.md",
     "2024-02-05.md",
@@ -197,7 +197,6 @@
     "Obsidian/README.md",
     "Obsidian/Python/python_reference.md",
     "Python/Obsidian/SQL/SQL_reference.md",
-    "Python/Obsidian/README.md",
     "Untitled.canvas"
   ]
 }
