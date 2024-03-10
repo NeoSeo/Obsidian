@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "2024-02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL_reference.md"
+                "file": "2024-02-22.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "SQL/SQL_reference.md",
     "Growth_Hacking/4-1 지표 활용하기.pdf",
     "SQL/Percentage of user contest.pdf",
     "2024-01-29.md",
-    "SQL/SQL_reference.md",
     "README.md",
     "Daily Done List.md",
     "2024-02-22.md",
@@ -182,7 +182,6 @@
     "Growth_Hacking/2-4 Retention.pdf",
     "Growth_Hacking/Original/2-5 Revenue.pdf",
     "SQL/leetcode/with.nullvalue_example.sql",
-    "SQL/leetcode/select_subquery_example.sql",
     "2024-01-19.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "SQL/Example of range.png",
