@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2024-02-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2024-02-14.md"
               }
             }
           },
@@ -158,6 +158,12 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "2024-02-08.md",
+    "2024-01-27.md",
+    "SQL/SQL_reference.md",
+    "SQL/Example of range.png",
+    "README.md",
+    "Project/Retention_Rate/revenue_analysis.sql",
     "Project/Retention_Rate/retention_rate.sql",
     "Project/Retention_Rate/creating_table_for_signup.sql",
     "Project/Retention_Rate/creating_table_for_payment.sql",
@@ -165,28 +171,21 @@
     "Project/Retention_Rate/retention.md",
     "Project/Retention_Rate",
     "Project",
-    "SQL/SQL_reference.md",
     "2024-02-22.md",
     "Growth_Hacking/4-1 지표 활용하기.pdf",
     "SQL/Percentage of user contest.pdf",
     "2024-01-29.md",
-    "README.md",
     "Daily Done List.md",
     "2024-02-15.md",
     "2024-02-17.md",
     "Python/Python_reference.md",
     "Python/condition_example.py",
-    "SQL/crossjoin_example.sql",
-    "SQL/3ways_extract_best_or_highest.sql",
     "2024-02-14.md",
-    "2024-01-27.md",
     "2024-02-04.md",
     "2024-02-05.md",
     "2024-02-11.md",
-    "2024-02-08.md",
     "2024-01-19.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
-    "SQL/Example of range.png",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
     "데이터 사이언스로 커리어 체인지를 생각한다면.md",
