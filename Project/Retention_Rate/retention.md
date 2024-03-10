@@ -1,0 +1,1 @@
+[Retention 구하기](https://www.inflearn.com/course/lecture?courseSlug=%EA%B7%B8%EB%A1%9C%EC%8A%A4%ED%95%B4%ED%82%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%A4%ED%97%98-%EC%84%B1%EC%9E%A5-%EC%84%9C%EB%B9%84%EC%8A%A4&unitId=29444)
