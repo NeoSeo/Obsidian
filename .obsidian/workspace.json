@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Retention_Rate/retention.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Retention_Rate/retention.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Retention_Rate/retention.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Retention_Rate/retention.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,7 +158,9 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Project/Retention_Rate/Readme.md",
     "2024-02-14.md",
+    "Project/Retention_Rate/retention.md",
     "2024-02-08.md",
     "2024-01-27.md",
     "SQL/SQL_reference.md",
@@ -169,7 +171,6 @@
     "Project/Retention_Rate/creating_table_for_signup.sql",
     "Project/Retention_Rate/creating_table_for_payment.sql",
     "Project/Retention_Rate/Retention&ARPPU_for_SQL.xlsx",
-    "Project/Retention_Rate/retention.md",
     "Project/Retention_Rate",
     "Project",
     "2024-02-22.md",

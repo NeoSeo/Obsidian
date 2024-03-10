@@ -12,10 +12,10 @@ There's a table of practice results for retention rate and ARPPU covered in the 
 강의에서 사용한 signup raw table을 만드는 작업을 한다. Creating the signup raw table used in the lecture.
 ## creating_table_for_payment:
 강의에서 사용한 payment raw table을 만다는 작업을 한다.
-**위 두 sql을 반드시 실행시키고 아래 쿼리를 실행해야 한다.
 Creating the payment raw table used in the lecture.
+**위 두 sql을 반드시 실행시키고 아래 쿼리를 실행해야 한다.
 **The above two SQL commands must be executed before running the following queries.
-## retention_rate
+## Retention_rate
 Retention rate 계산하기 Calculate Retention rate
-## revenue_analysis
+## Revenue_analysis
 결제율, ARPPU 등 구하기 Calculate payment rate, ARPPU, etc.
