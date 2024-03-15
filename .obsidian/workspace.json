@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "36fc519c27a5a94b",
   "lastOpenFiles": [
+    "README.md",
     "Daily Done List.md",
     "2024-03-15.md",
     "SQL/SQL_reference.md",
@@ -180,7 +181,6 @@
     "Project/Retention_Rate/Readme.md",
     "SQL/Percentage of user contest.pdf",
     "2024-02-22.md",
-    "README.md",
     "Image",
     "2024-02-05.md",
     "2024-02-14.md",
