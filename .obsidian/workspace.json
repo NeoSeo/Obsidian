@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Done List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36fc519c27a5a94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2024-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2024-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2024-03-15.md"
               }
             }
           },
@@ -156,8 +169,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd7d26172e012022",
+  "active": "36fc519c27a5a94b",
   "lastOpenFiles": [
+    "2024-02-22.md",
+    "2024-03-15.md",
+    "Daily Done List.md",
+    "README.md",
+    "2024-02-05.md",
     "Project/Retention_Rate/Readme.md",
     "2024-02-14.md",
     "Project/Retention_Rate/retention.md",
@@ -165,7 +183,6 @@
     "2024-01-27.md",
     "SQL/SQL_reference.md",
     "SQL/Example of range.png",
-    "README.md",
     "Project/Retention_Rate/revenue_analysis.sql",
     "Project/Retention_Rate/retention_rate.sql",
     "Project/Retention_Rate/creating_table_for_signup.sql",
@@ -173,17 +190,14 @@
     "Project/Retention_Rate/Retention&ARPPU_for_SQL.xlsx",
     "Project/Retention_Rate",
     "Project",
-    "2024-02-22.md",
     "Growth_Hacking/4-1 지표 활용하기.pdf",
     "SQL/Percentage of user contest.pdf",
     "2024-01-29.md",
-    "Daily Done List.md",
     "2024-02-15.md",
     "2024-02-17.md",
     "Python/Python_reference.md",
     "Python/condition_example.py",
     "2024-02-04.md",
-    "2024-02-05.md",
     "2024-02-11.md",
     "2024-01-19.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
@@ -196,7 +210,6 @@
     "README (conflict 2024-01-19-02-27-25).md",
     "Obsidian/SQL/SQL_reference.md",
     "Obsidian/README.md",
-    "Obsidian/Python/python_reference.md",
     "Untitled.canvas"
   ]
 }
