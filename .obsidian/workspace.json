@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "Project/Retention_Rate/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "Project/Retention_Rate/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "Project/Retention_Rate/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL_reference.md"
+                "file": "Project/Retention_Rate/Readme.md"
               }
             }
           },
@@ -171,10 +171,10 @@
   },
   "active": "36fc519c27a5a94b",
   "lastOpenFiles": [
-    "README.md",
     "Daily Done List.md",
     "2024-03-15.md",
     "SQL/SQL_reference.md",
+    "README.md",
     "SQL/데이터분석_SQL_Fundamentals_original.pdf",
     "Image/Example of range.png",
     "Image/Growth_Hacking_SQL_review.png",
