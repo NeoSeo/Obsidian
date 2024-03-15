@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "2024-03-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "2024-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "2024-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Done List.md"
+                "file": "2024-03-15.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "36fc519c27a5a94b",
   "lastOpenFiles": [
+    "Daily Done List.md",
     "2024-03-15.md",
     "2024-02-22.md",
-    "Daily Done List.md",
     "README.md",
     "Image/Growth_Hacking_SQL_review.png",
     "Image",
