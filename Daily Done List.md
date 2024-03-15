@@ -36,4 +36,5 @@ Be cautiou when you use range or rows as window. row with aggregation consider e
 Chekced NOT in and NOT exists difference when NULL value exists in subquery
 
 ## March
+
 [[2024-03-15]] Implemented retention_rate, ARPPU of Excel tables into SQL format. 
