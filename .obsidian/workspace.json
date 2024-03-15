@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-15.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-15.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-15.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-15.md"
+                "file": "README.md"
               }
             }
           },
@@ -173,18 +173,20 @@
   "lastOpenFiles": [
     "Daily Done List.md",
     "2024-03-15.md",
+    "SQL/SQL_reference.md",
+    "SQL/데이터분석_SQL_Fundamentals_original.pdf",
+    "Image/Example of range.png",
+    "Image/Growth_Hacking_SQL_review.png",
+    "Project/Retention_Rate/Readme.md",
+    "SQL/Percentage of user contest.pdf",
     "2024-02-22.md",
     "README.md",
-    "Image/Growth_Hacking_SQL_review.png",
     "Image",
     "2024-02-05.md",
-    "Project/Retention_Rate/Readme.md",
     "2024-02-14.md",
     "Project/Retention_Rate/retention.md",
     "2024-02-08.md",
     "2024-01-27.md",
-    "SQL/SQL_reference.md",
-    "SQL/Example of range.png",
     "Project/Retention_Rate/revenue_analysis.sql",
     "Project/Retention_Rate/retention_rate.sql",
     "Project/Retention_Rate/creating_table_for_signup.sql",
@@ -192,8 +194,6 @@
     "Project/Retention_Rate/Retention&ARPPU_for_SQL.xlsx",
     "Project/Retention_Rate",
     "Project",
-    "Growth_Hacking/4-1 지표 활용하기.pdf",
-    "SQL/Percentage of user contest.pdf",
     "2024-01-29.md",
     "2024-02-15.md",
     "2024-02-17.md",
