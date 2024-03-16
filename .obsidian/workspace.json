@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-16.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-16.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-16.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-16.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "README.md",
     "2024-03-16.md",
+    "README.md",
     "Daily Done List.md",
     "2024-03-15.md",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
