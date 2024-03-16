@@ -145,7 +145,7 @@ select *
 	   , sum(amount) over (partition by order_id order by line_prod_seq) as cum_sum -- sum analytic 함수에 order by를 추가하면서 누적합계가 만들어짐
 from nw.order_items
 
-
+-- IMPORTANT! 동일값 처리
 avg(sal) over (partition by deptno order by sal range between unbounded preceding and current row) as avg_range -- 같은 sal값이 있으면 동일하게 취급해서 보여준다. 
 , avg(sal) over (partition by deptno order by sal rows between unbounded preceding and current row) as avg_rows -- 같은 sal값이 있어도 하나씩 처리해도 보여준다.
 
