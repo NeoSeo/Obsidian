@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2024-03-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2024-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2024-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2024-03-16.md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "README.md",
+    "2024-03-16.md",
     "Daily Done List.md",
     "2024-03-15.md",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/SQL_reference.md",
     "SQL/데이터분석_SQL_Fundamentals_1.pdf",
-    "README.md",
     "2024-02-04.md",
     "SQL/leetcode/Employee_without_manager.sql",
     "SQL/데이터분석_SQL_Fundamentals_original.pdf",
