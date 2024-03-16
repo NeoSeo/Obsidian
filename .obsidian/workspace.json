@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-04.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-04.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-04.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-04.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -171,13 +171,14 @@
   },
   "active": "36fc519c27a5a94b",
   "lastOpenFiles": [
+    "README.md",
+    "Daily Done List.md",
+    "2024-03-15.md",
+    "2024-02-04.md",
     "SQL/leetcode/Employee_without_manager.sql",
     "SQL/SQL_reference.md",
     "SQL/데이터분석_SQL_Fundamentals_original.pdf",
     "Project/Retention_Rate/Readme.md",
-    "Daily Done List.md",
-    "2024-03-15.md",
-    "README.md",
     "Image/Example of range.png",
     "Image/Growth_Hacking_SQL_review.png",
     "SQL/Percentage of user contest.pdf",
@@ -194,12 +195,10 @@
     "Project/Retention_Rate/creating_table_for_payment.sql",
     "Project/Retention_Rate/Retention&ARPPU_for_SQL.xlsx",
     "Project/Retention_Rate",
-    "Project",
     "2024-01-29.md",
     "2024-02-15.md",
     "2024-02-17.md",
     "Python/Python_reference.md",
-    "2024-02-04.md",
     "2024-02-11.md",
     "2024-01-19.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
