@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Done List.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Daily Done List.md",
     "SQL/leetcode/game_play_analysis.sql",
     "SQL/leetcode/exchange_seat.sql",
     "SQL/leetcode/distinct_importance.sql",
     "2024-03-16.md",
     "SQL/SQL_reference.md",
     "README.md",
-    "Daily Done List.md",
     "2024-03-15.md",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/데이터분석_SQL_Fundamentals_1.pdf",
@@ -183,7 +183,6 @@
     "2024-02-08.md",
     "2024-01-27.md",
     "Project/Retention_Rate/revenue_analysis.sql",
-    "Project/Retention_Rate/retention_rate.sql",
     "2024-01-29.md",
     "2024-02-15.md",
     "2024-02-17.md",
