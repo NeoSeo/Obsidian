@@ -68,7 +68,7 @@ select to_timestamp('2024-02-11 13:24:35', 'yyyy-mm-dd hh24:mi:ss') + interval'1
 
 now() -- show current_timestamp
 current_date, current_time -- () 없음. showing current date/time
-date_trunc('second' now()) -- 초 단위 자르기, cut by second unit
+date_trunc('second', now()) -- 초 단위 자르기, cut by second unit
 trunc(99.9999, 2) -- == 99.99
 justify_interval(duration) -- 한달을 무조건 30일로 계산, counting a month firmly 30 days
 age() -- 한달을 28, 31일등 정확히 계산, counting actual days within month
