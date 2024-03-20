@@ -38,8 +38,9 @@ Chekced NOT in and NOT exists difference when NULL value exists in subquery
 ## March
 
 [[2024-03-15]] Implemented retention_rate, ARPPU of Excel tables into SQL format. 
-**(Acclaimed by tutors!) 😙
+**(Acclaimed by tutors!) 👏
 
 [[2024-03-16]] Solved 3 intermediate leetcode problems
 
 [[2024-03-20]] Solved 2 intermediate leetcode problems, Learnt correct raw data for analysis(Garbage in garbage out), Mean value could be distorted by outliers (Predators in dating app), crack the raw data at lower level raw data, be away from vanity metrics
+
