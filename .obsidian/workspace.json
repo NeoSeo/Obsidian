@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2024-03-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2024-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2024-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2024-03-20.md"
               }
             }
           },
@@ -158,13 +158,16 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Growth_Hacking/Original/4-3 OMTM_240320_164818.pdf",
+    "README.md",
+    "2024-03-20.md",
+    "SQL/leetcode/advanced_avg_&_counting_total_and_conditional.sql",
     "Daily Done List.md",
     "SQL/leetcode/game_play_analysis.sql",
     "SQL/leetcode/exchange_seat.sql",
     "SQL/leetcode/distinct_importance.sql",
     "2024-03-16.md",
     "SQL/SQL_reference.md",
-    "README.md",
     "2024-03-15.md",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/데이터분석_SQL_Fundamentals_1.pdf",
@@ -182,7 +185,6 @@
     "Project/Retention_Rate/retention.md",
     "2024-02-08.md",
     "2024-01-27.md",
-    "Project/Retention_Rate/revenue_analysis.sql",
     "2024-01-29.md",
     "2024-02-15.md",
     "2024-02-17.md",
@@ -196,7 +198,6 @@
     "무제 파일.canvas",
     "Test.md",
     "Pasted image 20240119190115.png",
-    "README (conflict 2024-01-19-02-27-25).md",
     "Untitled.canvas"
   ]
 }
