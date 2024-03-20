@@ -11,9 +11,11 @@
             "id": "cd7d26172e012022",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
+                "file": "README.md"
               }
             }
           },
@@ -156,6 +158,7 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/Original/다양한_사례로_익히는_SQL.pdf",
     "SQL/Original",
     "SQL/뜸부기",
@@ -172,7 +175,6 @@
     "SQL/leetcode/distinct_importance.sql",
     "2024-03-16.md",
     "2024-03-15.md",
-    "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/데이터분석_SQL_Fundamentals_1.pdf",
     "2024-02-04.md",
     "Project/Retention_Rate/Readme.md",
