@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f5455a84214f5dfc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5455a84214f5dfc",
+  "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "SQL/leetcode/finding_rank_1.sql",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/Original/다양한_사례로_익히는_SQL.pdf",
     "SQL/Original",
@@ -186,7 +176,6 @@
     "SQL/leetcode/distinct_importance.sql",
     "2024-03-16.md",
     "2024-03-15.md",
-    "SQL/데이터분석_SQL_Fundamentals_1.pdf",
     "2024-02-04.md",
     "Project/Retention_Rate/Readme.md",
     "Image/Example of range.png",

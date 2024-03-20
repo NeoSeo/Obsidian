@@ -1,7 +1,7 @@
 
 # Projects & Leetcode
-- [Leetcode TOP SQL 50](https://leetcode.com/studyplan/top-sql-50/) [Leetcode Github repository](https://github.com/NeoSeo/Obsidian/tree/main/SQL)
-- [Analysis retention rate and revenue using AARRR with SQL](https://github.com/NeoSeo/Obsidian/tree/5b5e077f431f28b174d0174e5f594b9ed5a13b7b/Project/Retention_Rate) **Acclaimed by tutors!!🏆👏
+- [Leetcode TOP SQL 50](https://leetcode.com/studyplan/top-sql-50/) [Leetcode SQL Github repository](https://github.com/NeoSeo/Obsidian/tree/main/SQL)
+- [Analysis retention rate and revenue using AARRR with SQL](https://github.com/NeoSeo/Obsidian/tree/5b5e077f431f28b174d0174e5f594b9ed5a13b7b/Project/Retention_Rate) **Acclaimed by tutors!!👏
 
 # Skills Confidence
 
@@ -47,8 +47,6 @@
 [Coursera Time Series Course](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
 [Coursera Deep Learning Course](https://www.coursera.org/specializations/deep-learning)
-
-[처음하는 MongoDB(몽고DB) 와 NoSQL(빅데이터) 데이터베이스 부트캠프 [입문부터 활용까지]](https://www.inflearn.com/course/nosql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AA%BD%EA%B3%A0db-%EC%9E%94%EC%9E%AC%EB%AF%B8%EC%BD%94%EB%94%A9)
 # Reference for jobs related to data
 [30/40대에 데이터 사이언스로 커리어 체인지를 생각한다면](https://brunch.co.kr/@carmenlee/41)
 
