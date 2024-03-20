@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-20.md",
+                "file": "Daily Done List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-20.md",
+                "file": "Daily Done List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-20.md",
+                "file": "Daily Done List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-20.md"
+                "file": "Daily Done List.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "Growth_Hacking/Original/4-3 OMTM_240320_164818.pdf",
+    "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
+    "Daily Done List.md",
     "README.md",
     "2024-03-20.md",
+    "Growth_Hacking/Original/4-3 OMTM_240320_164818.pdf",
     "SQL/leetcode/advanced_avg_&_counting_total_and_conditional.sql",
-    "Daily Done List.md",
     "SQL/leetcode/game_play_analysis.sql",
     "SQL/leetcode/exchange_seat.sql",
     "SQL/leetcode/distinct_importance.sql",
@@ -179,7 +180,6 @@
     "Image/Growth_Hacking_SQL_review.png",
     "SQL/Percentage of user contest.pdf",
     "2024-02-22.md",
-    "Image",
     "2024-02-05.md",
     "2024-02-14.md",
     "Project/Retention_Rate/retention.md",
@@ -191,7 +191,6 @@
     "Python/Python_reference.md",
     "2024-02-11.md",
     "2024-01-19.md",
-    "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
     "데이터 사이언스로 커리어 체인지를 생각한다면.md",
