@@ -11,11 +11,9 @@
             "id": "cd7d26172e012022",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SQL/SQL_reference.md",
-                "mode": "source",
-                "source": false
+                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "SQL/데이터분석_SQL_Fundamentals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL_reference.md"
+                "file": "SQL/데이터분석_SQL_Fundamentals.pdf"
               }
             }
           },
@@ -158,6 +156,10 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "SQL/Original/다양한_사례로_익히는_SQL.pdf",
+    "SQL/Original",
+    "SQL/뜸부기",
+    "SQL/SQL_reference.md",
     "README.md",
     "Daily Done List.md",
     "Growth_Hacking/4-2 잘못된 지표 활용.pdf",
@@ -169,13 +171,10 @@
     "SQL/leetcode/exchange_seat.sql",
     "SQL/leetcode/distinct_importance.sql",
     "2024-03-16.md",
-    "SQL/SQL_reference.md",
     "2024-03-15.md",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/데이터분석_SQL_Fundamentals_1.pdf",
     "2024-02-04.md",
-    "SQL/leetcode/Employee_without_manager.sql",
-    "SQL/데이터분석_SQL_Fundamentals_original.pdf",
     "Project/Retention_Rate/Readme.md",
     "Image/Example of range.png",
     "Image/Growth_Hacking_SQL_review.png",
