@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Project/Retention_Rate/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Project/Retention_Rate/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. Project/Retention_Rate/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Project/Retention_Rate/Readme.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "README.md",
     "Daily Done List.md",
     "SQL/SQL_reference.md",
     "SQL/leetcode/join_using_union_without_orderby.sql",
-    "README.md",
     "SQL/leetcode/finding_rank_1.sql",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/Original/다양한_사례로_익히는_SQL.pdf",
@@ -176,7 +176,7 @@
     "2024-03-16.md",
     "2024-03-15.md",
     "2024-02-04.md",
-    "Project/Retention_Rate/Readme.md",
+    "1. Project/Retention_Rate/Readme.md",
     "Image/Example of range.png",
     "Image/Growth_Hacking_SQL_review.png",
     "2024-02-22.md",
