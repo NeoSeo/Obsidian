@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL/SQL_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SQL/SQL_reference.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "README.md",
     "SQL/leetcode/finding_rank_1.sql",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/Original/다양한_사례로_익히는_SQL.pdf",
     "SQL/Original",
     "SQL/뜸부기",
     "SQL/SQL_reference.md",
-    "README.md",
     "Daily Done List.md",
     "Growth_Hacking/4-2 잘못된 지표 활용.pdf",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
@@ -173,7 +173,6 @@
     "SQL/leetcode/advanced_avg_&_counting_total_and_conditional.sql",
     "SQL/leetcode/game_play_analysis.sql",
     "SQL/leetcode/exchange_seat.sql",
-    "SQL/leetcode/distinct_importance.sql",
     "2024-03-16.md",
     "2024-03-15.md",
     "2024-02-04.md",
