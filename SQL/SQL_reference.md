@@ -214,11 +214,15 @@ from app a
 Select *
 from a
 order by user_id
-
+limit 1
 )
-union
-
-
+union   -- union 과 order by 사용시에는 각 쿼리를 서브쿼리로 만들어줘야 한다.
+(
+Select *
+from b
+order by user_id
+limit 1
+)
 ```
 
 |               |   non-correlated    |     correlated      |
