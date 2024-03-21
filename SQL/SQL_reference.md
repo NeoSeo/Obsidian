@@ -207,6 +207,17 @@ select * from hr.dept where (deptno, loc) in (select deptno, 'DALLAS' from hr.em
 select customer_id,max(order_date) from orders group by customer_id order by customer_id
 select * from nw.orders where (customer_id, order_date) in (select customer_id, max(order_date) from nw.orders group by customer_id) order by customer_id;
 
+select *
+from app a
+	join bat b using(user_id) -- == on b.user_id = a.user_id: on clause 대신 using 을 사용
+(
+Select *
+from a
+order by user_id
+
+)
+union
+
 
 ```
 
