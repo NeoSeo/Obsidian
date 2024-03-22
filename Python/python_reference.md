@@ -1,6 +1,7 @@
 
 ```python
 a.find('dd') ## dd의 인덱스. indexing 'dd'
+b = a.split(",") ## ,을 기준으로 나눠서 b에 리스트 형태로 저장
 a.strip()
 a.strip('dd') ## Space 혹은 dd같은 문자 삭제 removing space or particular str
 print("This is a {}".format("pen"))
