@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "2024-03-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "2024-03-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "2024-03-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python_reference.md"
+                "file": "2024-03-22.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Python/Python_reference.md",
+    "SQL/SQL_reference.md",
     "2024-03-22.md",
     "2024-03-20.md",
     "Daily Done List.md",
     "README.md",
-    "Python/Python_reference.md",
     "Python/cracking_list.py",
-    "SQL/SQL_reference.md",
     "Python/Python practice/python-question3-web.ipynb",
     "Python/Python practice",
     "Python/두견",
@@ -197,4 +197,7 @@
     "데이터 사이언스로 커리어 체인지를 생각한다면.md",
     "무제 파일.canvas",
     "Test.md",
-    "Pasted im
+    "Pasted image 20240119190115.png",
+    "Untitled.canvas"
+  ]
+}
