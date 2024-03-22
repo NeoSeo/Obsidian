@@ -22,7 +22,7 @@
 
 [다양한 사례로 익히는 SQL 데이터 분석](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%EC%82%AC%EB%A1%80%EC%A4%91%EC%8B%AC/dashboard) ■
 
-[파이썬입문과 크롤링기초 부트캠프 - 파이썬, 웹, 데이터 이해 기본까지](https://www.inflearn.com/course/python-crawling-basic/dashboard) ■
+[파이썬입문과 크롤링기초 부트캠프 - 파이썬, 웹, 데이터 이해 기본까지](https://www.inflearn.com/course/python-crawling-basic/dashboard) ■■
 
 [이것이 진짜 크롤링이다 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88/dashboard)
 
