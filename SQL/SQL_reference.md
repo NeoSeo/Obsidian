@@ -223,6 +223,10 @@ from b
 order by user_id
 limit 1
 )
+
+
+order by value desc limit 1;  -- 최고값을 찾고 싶을 때 복잡하게 where a in (select max() ~) 쓰지 말고 order by + limit 1 조합으로 찾자.
+
 ```
 
 |               |   non-correlated    |     correlated      |
