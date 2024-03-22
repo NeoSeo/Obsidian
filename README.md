@@ -44,8 +44,6 @@
 
 [Coursera Maching Learning Course](https://www.coursera.org/specializations/machine-learning-introduction)
 
-[Coursera Time Series Course](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
-
 [Coursera Deep Learning Course](https://www.coursera.org/specializations/deep-learning)
 # Reference for jobs related to data
 [30/40대에 데이터 사이언스로 커리어 체인지를 생각한다면](https://brunch.co.kr/@carmenlee/41)
