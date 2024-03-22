@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL_reference.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL_reference.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,12 +158,15 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
-    "Python/Python_reference.md",
-    "2024-03-22.md",
-    "SQL/SQL_reference.md",
-    "2024-03-20.md",
-    "Daily Done List.md",
+    "Daily Done List/2024-01-29.md",
+    "Daily Done List/2024-01-19.md",
     "README.md",
+    "Daily Done List",
+    "Daily Done List.md",
+    "Daily Done List/2024-03-22.md",
+    "SQL/SQL_reference.md",
+    "Python/Python_reference.md",
+    "Daily Done List/2024-03-20.md",
     "Python/cracking_list.py",
     "Python/Python practice/python-question3-web.ipynb",
     "Python/Python practice",
@@ -174,29 +177,25 @@
     "SQL/leetcode/finding_rank_1.sql",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/Original/다양한_사례로_익히는_SQL.pdf",
-    "SQL/Original",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
-    "2024-03-16.md",
-    "2024-03-15.md",
-    "2024-02-04.md",
+    "Daily Done List/2024-03-16.md",
+    "Daily Done List/2024-03-15.md",
+    "Daily Done List/2024-02-04.md",
     "Image/Example of range.png",
     "Image/Growth_Hacking_SQL_review.png",
-    "2024-02-22.md",
-    "2024-02-05.md",
-    "2024-02-14.md",
+    "Daily Done List/2024-02-22.md",
+    "Daily Done List/2024-02-05.md",
+    "Daily Done List/2024-02-14.md",
     "Project/Retention_Rate/retention.md",
-    "2024-02-08.md",
-    "2024-01-27.md",
-    "2024-01-29.md",
-    "2024-02-15.md",
-    "2024-02-17.md",
-    "2024-02-11.md",
-    "2024-01-19.md",
+    "Daily Done List/2024-02-08.md",
+    "Daily Done List/2024-01-27.md",
+    "Daily Done List/2024-02-15.md",
+    "Daily Done List/2024-02-17.md",
+    "Daily Done List/2024-02-11.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
     "데이터 사이언스로 커리어 체인지를 생각한다면.md",
     "무제 파일.canvas",
-    "Test.md",
     "Pasted image 20240119190115.png",
     "Untitled.canvas"
   ]
