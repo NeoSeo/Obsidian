@@ -11,11 +11,9 @@
             "id": "cd7d26172e012022",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Growth_Hacking/2-4 Retention.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Growth_Hacking/2-4 Retention.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Growth_Hacking/2-4 Retention.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Growth_Hacking/2-4 Retention.pdf"
               }
             }
           },
@@ -158,10 +156,10 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "README.md",
     "Daily Done List.md",
     "SQL/SQL_reference.md",
     "1. Project/Retention_Rate/Readme.md",
-    "README.md",
     "SQL/leetcode/join_using_union_without_orderby.sql",
     "SQL/leetcode/finding_rank_1.sql",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
