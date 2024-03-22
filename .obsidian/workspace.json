@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python_reference.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Python/Python_reference.md",
     "README.md",
     "Daily Done List.md",
-    "Python/Python_reference.md",
     "Python/cracking_list.py",
     "SQL/SQL_reference.md",
     "Python/Python practice/python-question3-web.ipynb",
