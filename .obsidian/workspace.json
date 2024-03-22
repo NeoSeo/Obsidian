@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Python/Python_reference.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "README.md",
     "Daily Done List.md",
     "Python/Python_reference.md",
     "Python/cracking_list.py",
     "SQL/SQL_reference.md",
-    "README.md",
     "Python/Python practice/python-question3-web.ipynb",
     "Python/Python practice",
     "Python/두견",

@@ -28,6 +28,11 @@ print(show)
 data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 data.reverse() ## 리스트를 역순으로 저장
 
+def func(a):
+    b= a+1
+    return a,b
+func(2)
+# -> (a,b) 튜퓰 형태로 반화. 파이썬만의 특징!!
 
 ```
 
