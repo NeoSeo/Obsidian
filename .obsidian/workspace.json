@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Python/Python_reference.md"
               }
             }
           },
@@ -156,16 +156,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd7d26172e012022",
+  "active": "c556f10849853a5e",
   "lastOpenFiles": [
+    "SQL/SQL_reference.md",
+    "README.md",
     "Python/Python_reference.md",
     "Python/Python practice/python-question3-web.ipynb",
     "Python/Python practice",
     "Python/두견",
     "Growth_Hacking/2-4 Retention.pdf",
-    "README.md",
     "Daily Done List.md",
-    "SQL/SQL_reference.md",
     "1. Project/Retention_Rate/Readme.md",
     "SQL/leetcode/join_using_union_without_orderby.sql",
     "SQL/leetcode/finding_rank_1.sql",
