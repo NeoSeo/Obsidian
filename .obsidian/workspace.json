@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python_reference.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,22 +158,21 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Daily Done List.md",
+    "Python/Python_reference.md",
     "Python/cracking_list.py",
     "SQL/SQL_reference.md",
     "README.md",
-    "Python/Python_reference.md",
     "Python/Python practice/python-question3-web.ipynb",
     "Python/Python practice",
     "Python/두견",
     "Growth_Hacking/2-4 Retention.pdf",
-    "Daily Done List.md",
     "1. Project/Retention_Rate/Readme.md",
     "SQL/leetcode/join_using_union_without_orderby.sql",
     "SQL/leetcode/finding_rank_1.sql",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/Original/다양한_사례로_익히는_SQL.pdf",
     "SQL/Original",
-    "SQL/뜸부기",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "2024-03-20.md",
     "2024-03-16.md",
