@@ -11,6 +11,21 @@ format(interest, ".2f") ## 소숫점 둘째자리까지
 code = '000660\n00000102\t12312312' ## \n 코드 줄바꿈 \t tab 역할
 print (code)
 
+## for + list
+show = []
+num_list = [0, -11, 31, 22, -11, 33, -44, -55]
+for i in num_list:
+    if i > 0:
+        show.append(i)
+        print(show) ## 
+print(show)
+
+[31] 
+[31, 22]
+[31, 22, 33]
+[31, 22, 33] ## for문 밖 최종 print값
+
+
 ```
 
 sort() [순서대로 정렬]와 reverse() [역순으로 정렬] 만 본래의 리스트 값이 바뀌지만 split()처럼 보통 이런 내장함수는 본래 함수가 바뀌지 않는다
