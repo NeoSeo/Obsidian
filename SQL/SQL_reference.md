@@ -3,6 +3,12 @@
 
 ```sql
 
+
+-- how to pickup based on year+month
+where year(order_date) = 2020 and month(order_date) = 02
+where left(order_date,7) = '2020-02'
+where order_date between '2020-02-01' and '2020-02-29'
+
 -- reference expression
 where country like 'q%' -- any letter set after q
 where country not like 'q__' -- any 2 letters after q
