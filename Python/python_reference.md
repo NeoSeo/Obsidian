@@ -60,6 +60,7 @@ data.values() ## 밸류값만 출력
 key 값은 못 바꾼다
 
 #### set: set() or {} -> 보통은 dict로 검색되기 때문에 set()이 낫다
+집합 내에서 순서와 중복이 없다 
 ```python
 data_set = {'apple', 'dell', 'samsung', 'LG'}
 'motor' in data_set ## >> False
@@ -69,5 +70,7 @@ data1 | data2 # 합집합
 data1 - data2 # 차집합
 data1 ^ data2 # 여집합
 
+data_set = ['apple', 'dell', 'samsung', 'LG', 'apple', 'dell', 'samsung', 'LG']
+## 리스트에 중복이 있어서 삭제하고 싶을 때 set으로 타입을 바꾸고 다시 list로 바꾸면 중복이 삭제
 ```
 
