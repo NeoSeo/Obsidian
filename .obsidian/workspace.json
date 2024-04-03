@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Profile.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Profile.md"
               }
             }
           },
@@ -160,7 +160,7 @@
   "lastOpenFiles": [
     "Image/Leetcode sql50 badge.png",
     "Pasted image 20240403225634.png",
-    "README.md",
+    "Profile.md",
     "Pasted image 20240403225205.png",
     "Pasted image 20240403225354.png",
     "Daily Done List.md",
