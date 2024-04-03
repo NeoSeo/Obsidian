@@ -1,8 +1,7 @@
 
 # Projects & Leetcode
-- [Leetcode TOP SQL 50](https://leetcode.com/studyplan/top-sql-50/) [Leetcode SQL Github repository](https://github.com/NeoSeo/Obsidian/tree/main/SQL) 
-![[Pasted image 20240403225205.png]]
-
+- [Leetcode TOP SQL 50](https://leetcode.com/studyplan/top-sql-50/) [Leetcode SQL Github repository](https://github.com/NeoSeo/Obsidian/tree/main/SQL) [Leetcode Profile](https://leetcode.com/Neo_YW_Seo/)
+![[Leetcode sql50 badge.png]]
 - [Analysis retention rate and revenue using AARRR with SQL](https://github.com/NeoSeo/Obsidian/tree/5b5e077f431f28b174d0174e5f594b9ed5a13b7b/Project/Retention_Rate) **Acclaimed by tutor!!👏
 
 # Skills Confidence
