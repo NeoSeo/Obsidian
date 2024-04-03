@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c78fb80dfc8d5d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,8 +167,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd7d26172e012022",
+  "active": "3c78fb80dfc8d5d8",
   "lastOpenFiles": [
+    "SQL/leetcode/limit_offset.sql",
+    "SQL/leetcode/distinct_like_group_by.sql",
     "README.md",
     "Growth_Hacking/Original/6-2 그로스 조직이 일하는 방식.pdf",
     "Growth_Hacking/Original/6-1 그로스 조직 만들기.pdf",
@@ -175,7 +188,6 @@
     "Daily Done List/2024-03-20.md",
     "Python/cracking_list.py",
     "Python/Python practice/python-question3-web.ipynb",
-    "Python/Python practice",
     "1. Project/Retention_Rate/Readme.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
     "Daily Done List/2024-03-16.md",
