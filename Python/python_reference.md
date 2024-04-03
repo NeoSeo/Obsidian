@@ -60,3 +60,14 @@ data.values() ## 밸류값만 출력
 key 값은 못 바꾼다
 
 #### set: set() or {} -> 보통은 dict로 검색되기 때문에 set()이 낫다
+```python
+data_set = {'apple', 'dell', 'samsung', 'LG'}
+'motor' in data_set ## >> False
+
+data1 & data2 # 교집합
+data1 | data2 # 합집합
+data1 - data2 # 차집합
+data1 ^ data2 # 여집합
+
+```
+
