@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profile.md",
+                "file": "Python/Python_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profile.md",
+                "file": "Python/Python_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profile.md",
+                "file": "Python/Python_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profile.md"
+                "file": "Python/Python_reference.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Profile.md",
     "SQL/leetcode/correlation_subquery_to_filter.sql",
     "Image/Leetcode sql50 badge.png",
     "Pasted image 20240403225634.png",
-    "Profile.md",
     "Pasted image 20240403225205.png",
     "Pasted image 20240403225354.png",
     "Daily Done List.md",
@@ -176,7 +176,6 @@
     "SQL/leetcode/limit_offset.sql",
     "SQL/leetcode/distinct_like_group_by.sql",
     "Growth_Hacking/Original/6-2 그로스 조직이 일하는 방식.pdf",
-    "Growth_Hacking/Original/6-1 그로스 조직 만들기.pdf",
     "Daily Done List/2024-01-29.md",
     "Daily Done List/2024-01-19.md",
     "Daily Done List/2024-03-22.md",
