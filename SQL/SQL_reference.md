@@ -3,6 +3,10 @@
 
 ```sql
 
+-- how to find highest number
+order by amount DESC limit 1
+where amount in (select max(amount) from t1 group by id)
+
 
 -- how to pickup based on year+month
 where year(order_date) = 2020 and month(order_date) = 02
