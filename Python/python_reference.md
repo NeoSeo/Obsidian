@@ -98,7 +98,7 @@ from bs4 import BeautifulSoup
 res = requests.get('https://www.daum.net/', verify = False)
 soup = BeautifulSoup(res.content,'html.parser')
 mydat = soup.find('title')
-mydat.get_text() ## ㄷ
+mydat.get_text() ## 다음
 
 ```
 
