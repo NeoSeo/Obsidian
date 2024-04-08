@@ -90,3 +90,15 @@ number_list2.remove(2) # 특정 데이터를 삭제할 때는 remove
 
 ```
 
+## 크롤링
+
+``` python
+import requests
+from bs4 import BeautifulSoup
+res = requests.get('https://www.daum.net/', verify = False)
+soup = BeautifulSoup(res.content,'html.parser')
+mydat = soup.find('title')
+mydat.get_text() ## ㄷ
+
+```
+
