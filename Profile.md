@@ -1,13 +1,13 @@
 
 # Projects
-- [Leetcode TOP SQL 50](https://leetcode.com/studyplan/top-sql-50/)   [Leetcode SQL Github repository](https://github.com/NeoSeo/Obsidian/tree/main/SQL)   [Leetcode Profile](https://leetcode.com/Neo_YW_Seo/)
+- [Leetcode TOP SQL 50](https://leetcode.com/studyplan/top-sql-50/)   [Leetcode SQL Github repository](https://github.com/NeoSeo/Obsidian/tree/main/SQL)   
 - [Analysis retention rate and revenue using AARRR with SQL](https://github.com/NeoSeo/Obsidian/tree/5b5e077f431f28b174d0174e5f594b9ed5a13b7b/Project/Retention_Rate) **Acclaimed by tutor!!👏
 
 # Skills Confidence
 
 #### Microsoft Excel: Super 🚀🚀
-#### SQL: Skillful 🚀🏆 [Hackerrank SQL Intermediate Certificate](https://www.hackerrank.com/certificates/e689d6a4b99f), [SQLD Certificate](http://101.79.81.82:8080/oz80/ExamDACertification_new.jsp?APLY_SEQ=1009154&ConfirmKey=766764)
-#### Python: Introductory to Beginner
+#### SQL: Skillful 🚀🏆 [Hackerrank SQL Intermediate Certificate](https://www.hackerrank.com/certificates/e689d6a4b99f), [SQLD Certificate](http://101.79.81.82:8080/oz80/ExamDACertification_new.jsp?APLY_SEQ=1009154&ConfirmKey=766764), [Leetcode Profile SQL 50 solved](https://leetcode.com/Neo_YW_Seo/)
+#### Python: Beginner
 
 
 # Study Plan
