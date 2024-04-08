@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python_reference.md"
+                "file": "Profile.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "cd7d26172e012022",
   "lastOpenFiles": [
+    "Python/Python_reference.md",
     "Profile.md",
     "Leetcode sql50 badge.png",
-    "Python/Python_reference.md",
     "SQL/leetcode/correlation_subquery_to_filter.sql",
     "Pasted image 20240403225634.png",
     "Pasted image 20240403225205.png",
