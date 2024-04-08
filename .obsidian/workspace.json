@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Done List/2024-04-08.md",
+                "file": "Daily Done List.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Done List/2024-04-08.md",
+                "file": "Daily Done List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Done List/2024-04-08.md",
+                "file": "Daily Done List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Done List/2024-04-08.md"
+                "file": "Daily Done List.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "7fb8ccfaf423e39d",
   "lastOpenFiles": [
-    "Python/Python_reference.md",
     "Daily Done List/2024-04-08.md",
+    "Python/Python_reference.md",
     "Image/Growth_Hacking_SQL_review.png",
     "Daily Done List.md",
     "Daily Done List/2024-03-22.md",

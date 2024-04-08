@@ -47,4 +47,4 @@ Chekced NOT in and NOT exists difference when NULL value exists in subquery
 [[2024-03-22]] Solved 4 intermediate leetcode problems. Find best values using order by desc + limit 1! Learnt for+while / function / data type(tuple/dictionary). Remember reverse(), append() 
 
 ## April
-[[2024-04-08]] 
+[[2024-04-08]] Finalized growth hacking that for
