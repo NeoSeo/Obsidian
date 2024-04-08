@@ -60,6 +60,8 @@ data.keys() ## key 값만 출력
 data.keys() ## 키값만 리스트로 출력
 data.values() ## 밸류값만 출력
 
+data = {'company': ['회사','O']} ## 이런식의 리스트 형의 value도 가능하다.
+
 if english in data.keys(): 
     data[english][1] = 'O' ## data 딕셔너리의 englsih변수 값과 같은 key값의 2번째 value를 'O'로 바꿔줌
     
