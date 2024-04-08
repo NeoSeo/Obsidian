@@ -76,5 +76,11 @@ data1 ^ data2 # 여집합
 
 data_set = ['apple', 'dell', 'samsung', 'LG', 'apple', 'dell', 'samsung', 'LG']
 ## 리스트에 중복이 있어서 삭제하고 싶을 때 set으로 타입을 바꾸고 다시 list로 바꾸면 중복이 삭제
+
+number_list2 = {1, 2, 3}
+number_list2.add(4) # 하나의 데이터를 추가할 때는 add
+number_list2.update([5, 6]) # 여러 데이터를 추가할 때는 리스트 형태로 update 함수를 사용
+number_list2.remove(2) # 특정 데이터를 삭제할 때는 remove
+
 ```
 
