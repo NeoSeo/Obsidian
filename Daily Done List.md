@@ -45,3 +45,6 @@ Chekced NOT in and NOT exists difference when NULL value exists in subquery
 [[2024-03-20]] Solved 2 intermediate leetcode problems, Learnt correct raw data for analysis(Garbage in garbage out), Mean value could be distorted by outliers (Predators in dating app), crack the raw data at lower level raw data, be away from vanity metrics
 
 [[2024-03-22]] Solved 4 intermediate leetcode problems. Find best values using order by desc + limit 1! Learnt for+while / function / data type(tuple/dictionary). Remember reverse(), append() 
+
+## April
+[[2024-04-08]] 

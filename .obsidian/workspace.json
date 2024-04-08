@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profile.md",
+                "file": "Daily Done List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fb8ccfaf423e39d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Done List/2024-04-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profile.md",
+                "file": "Daily Done List/2024-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profile.md",
+                "file": "Daily Done List/2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profile.md"
+                "file": "Daily Done List/2024-04-08.md"
               }
             }
           },
@@ -156,16 +169,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd7d26172e012022",
+  "active": "7fb8ccfaf423e39d",
   "lastOpenFiles": [
-    "Python/Python_reference.md",
+    "Image/Growth_Hacking_SQL_review.png",
+    "Daily Done List.md",
+    "Daily Done List/2024-04-08.md",
+    "Daily Done List/2024-03-22.md",
     "Profile.md",
+    "Python/Python_reference.md",
     "Leetcode sql50 badge.png",
     "SQL/leetcode/correlation_subquery_to_filter.sql",
     "Pasted image 20240403225634.png",
     "Pasted image 20240403225205.png",
     "Pasted image 20240403225354.png",
-    "Daily Done List.md",
     "Pasted image 20240403225200.png",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
     "SQL/SQL_reference.md",
@@ -179,7 +195,6 @@
     "Growth_Hacking/Original/6-2 그로스 조직이 일하는 방식.pdf",
     "Daily Done List/2024-01-29.md",
     "Daily Done List/2024-01-19.md",
-    "Daily Done List/2024-03-22.md",
     "Daily Done List/2024-03-20.md",
     "1. Project/Retention_Rate/Readme.md",
     "Growth_Hacking/Growth Hacking_1 PMF to Acquisition.md",
@@ -187,7 +202,6 @@
     "Daily Done List/2024-03-15.md",
     "Daily Done List/2024-02-04.md",
     "Image/Example of range.png",
-    "Image/Growth_Hacking_SQL_review.png",
     "Daily Done List/2024-02-22.md",
     "Daily Done List/2024-02-05.md",
     "Daily Done List/2024-02-14.md",
@@ -199,7 +213,6 @@
     "Daily Done List/2024-02-11.md",
     "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 19.18.43.excalidraw.md",
-    "데이터 사이언스로 커리어 체인지를 생각한다면.md",
     "무제 파일.canvas",
     "Pasted image 20240119190115.png",
     "Untitled.canvas"
