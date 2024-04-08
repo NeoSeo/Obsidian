@@ -23,11 +23,9 @@
             "id": "7fb8ccfaf423e39d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Daily Done List.md",
-                "mode": "source",
-                "source": false
+                "file": "Image/Example of range.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "Image/Example of range.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Done List.md",
+                "file": "Image/Example of range.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Done List.md"
+                "file": "Image/Example of range.png"
               }
             }
           },
@@ -171,9 +169,10 @@
   },
   "active": "7fb8ccfaf423e39d",
   "lastOpenFiles": [
+    "Image/Growth_Hacking_SQL_review.png",
+    "SQL/SQL_reference.md",
     "Daily Done List/2024-04-08.md",
     "Python/Python_reference.md",
-    "Image/Growth_Hacking_SQL_review.png",
     "Daily Done List.md",
     "Daily Done List/2024-03-22.md",
     "Profile.md",
@@ -184,7 +183,6 @@
     "Pasted image 20240403225354.png",
     "Pasted image 20240403225200.png",
     "SQL/데이터분석_SQL_Fundamentals.pdf",
-    "SQL/SQL_reference.md",
     "Growth_Hacking/8-1 그로스해킹 공부.pdf",
     "Growth_Hacking/Original/8-1 그로스해킹 공부.pdf",
     "Growth_Hacking/Original/7-1 성장을 위한 문화.pdf",
