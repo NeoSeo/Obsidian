@@ -56,7 +56,9 @@ data.keys() ## key 값만 출력
 data.keys() ## 키값만 리스트로 출력
 data.values() ## 밸류값만 출력
 
-
+if english in data.keys(): 
+    data[english][1] = 'O' ## data 딕셔너리의 englsih변수 값과 같은 key값의 2번째 value를 'O'로 바꿔줌
+    
 ```
 
 key 값은 못 바꾼다
