@@ -102,5 +102,31 @@ mydat.get_text() ## 다음
 # or
 mydat.string
 
+from bs4 import BeautifulSoup
+html = """
+<html> 
+        <body> 
+            <h1 id='title'>[1]크롤링이란?</h1> 
+            <p class='cssstyle'>웹페이지에서 필요한 데이터를 추출하는 것</p> 
+            <p id='body' align='center'>파이썬을 중심으로 다양한 웹크롤링 기술 발달</p> 
+        </body> 
+</html>
+"""
+soup = BeautifulSoup(html,"html.parser")
+# 태그로 검색 방법
+
+data = soup.find('p', class_ = 'cssstyle')
+data1 = soup.find('p', 'cssstyle')
+data2 = soup.find('p', attrs={'align':'center', 'id': 'body'})
+data3 = soup.find(id = 'body')
+data4 = soup.find_all('p') ## 모든 p값을 가져옮
+print(data) ## tag 나 각종 설정 다 보임
+print(data1.string)
+print(data2.get_text())
+print(data3)
+
+for i in data4:
+    print(i.get_text())
+
 ```
 
