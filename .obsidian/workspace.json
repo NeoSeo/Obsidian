@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python_reference.md"
+                "file": "Profile.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "bcdfdc507abf3ead",
   "lastOpenFiles": [
+    "Python/Python_reference.md",
     "Python/def+for.py",
     "Python/Python practice/python-question5-web.ipynb",
     "Python/Python practice/python-question4-web.ipynb",
@@ -167,7 +168,6 @@
     "Image/Growth_Hacking_SQL_review.png",
     "SQL/SQL_reference.md",
     "Daily Done List/2024-04-08.md",
-    "Python/Python_reference.md",
     "Daily Done List/2024-03-22.md",
     "Leetcode sql50 badge.png",
     "SQL/leetcode/correlation_subquery_to_filter.sql",
@@ -181,7 +181,6 @@
     "Growth_Hacking/Original/7-1 성장을 위한 문화.pdf",
     "Growth_Hacking/7-1 성장을 위한 문화.pdf",
     "Growth_Hacking/6-2 그로스 조직이 일하는 방식.pdf",
-    "SQL/leetcode/limit_offset.sql",
     "Daily Done List/2024-01-29.md",
     "Daily Done List/2024-01-19.md",
     "Daily Done List/2024-03-20.md",
