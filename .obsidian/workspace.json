@@ -11,8 +11,12 @@
             "id": "bcdfdc507abf3ead",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python_reference.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Python_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Python_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Python_reference.md"
+              }
             }
           },
           {
@@ -150,6 +158,9 @@
   },
   "active": "bcdfdc507abf3ead",
   "lastOpenFiles": [
+    "Python/def+for.py",
+    "Python/Python practice/python-question5-web.ipynb",
+    "Python/Python practice/python-question4-web.ipynb",
     "Daily Done List.md",
     "Profile.md",
     "Image/Example of range.png",
@@ -171,8 +182,6 @@
     "Growth_Hacking/7-1 성장을 위한 문화.pdf",
     "Growth_Hacking/6-2 그로스 조직이 일하는 방식.pdf",
     "SQL/leetcode/limit_offset.sql",
-    "SQL/leetcode/distinct_like_group_by.sql",
-    "Growth_Hacking/Original/6-2 그로스 조직이 일하는 방식.pdf",
     "Daily Done List/2024-01-29.md",
     "Daily Done List/2024-01-19.md",
     "Daily Done List/2024-03-20.md",

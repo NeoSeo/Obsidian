@@ -99,6 +99,8 @@ res = requests.get('https://www.daum.net/', verify = False)
 soup = BeautifulSoup(res.content,'html.parser')
 mydat = soup.find('title')
 mydat.get_text() ## 다음
+# or
+mydat.string
 
 ```
 
