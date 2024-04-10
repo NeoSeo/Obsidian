@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bd711e159547a111",
+        "id": "81773db4a99b291b",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7d26172e012022",
+            "id": "bcdfdc507abf3ead",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Done List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fb8ccfaf423e39d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Image/Example of range.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image/Example of range.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Image/Example of range.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Image/Example of range.png"
-              }
+              "state": {}
             }
           },
           {
@@ -167,15 +148,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fb8ccfaf423e39d",
+  "active": "bcdfdc507abf3ead",
   "lastOpenFiles": [
+    "Daily Done List.md",
+    "Profile.md",
+    "Image/Example of range.png",
     "Image/Growth_Hacking_SQL_review.png",
     "SQL/SQL_reference.md",
     "Daily Done List/2024-04-08.md",
     "Python/Python_reference.md",
-    "Daily Done List.md",
     "Daily Done List/2024-03-22.md",
-    "Profile.md",
     "Leetcode sql50 badge.png",
     "SQL/leetcode/correlation_subquery_to_filter.sql",
     "Pasted image 20240403225634.png",
@@ -199,7 +181,6 @@
     "Daily Done List/2024-03-16.md",
     "Daily Done List/2024-03-15.md",
     "Daily Done List/2024-02-04.md",
-    "Image/Example of range.png",
     "Daily Done List/2024-02-22.md",
     "Daily Done List/2024-02-05.md",
     "Daily Done List/2024-02-14.md",
