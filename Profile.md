@@ -10,6 +10,7 @@
 #### Python: Beginner to Intermediate
 
 #### Selenium: Beginner
+
 # Study Plan
 
 ✅[[백문이불여일타] 데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-sql/dashboard) ■■■■■ [Certificate](https://www.inflearn.com/certificate/202829-324605-2065655)
@@ -40,7 +41,7 @@
 
 [PM을 위한 데이터 리터러시(프로덕트 데이터 분석)](https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C)
 
-[실리콘밸리 엔지니어가 가르치는 파이썬 기초부터 고급까지](https://www.inflearn.com/course/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EA%B3%A0%EA%B8%89%EA%B9%8C%EC%A7%80/dashboard)
+[실리콘밸리 엔지니어가 가르치는 파이썬 기초부터 고급까지](https://www.inflearn.com/course/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EA%B3%A0%EA%B8%89%EA%B9%8C%EC%A7%80/dashboard) ■
 
 [Coursera Maching Learning Course](https://www.coursera.org/specializations/machine-learning-introduction)
 
