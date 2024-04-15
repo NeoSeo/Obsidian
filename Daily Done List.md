@@ -50,3 +50,5 @@ Chekced NOT in and NOT exists difference when NULL value exists in subquery
 [[2024-04-08]] Finalized growth hacking that forming growth hacking requires strong support from c-level, all of memebers could access data, circumstance that the result of test should be adjusted to business.
 Learnt set, dictionary, tuple type of Python. 
 Attained SQL TOP 50 in Leetcode
+
+[[2024-04-15]] Studied additional crwaling using select (# for id, . for class, strip(), split())
