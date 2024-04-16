@@ -92,6 +92,7 @@ number_list2.remove(2) # 특정 데이터를 삭제할 때는 remove
 
 ## 크롤링
 
+[크롤링](Python/crawling_1.py)
 ``` python
 import requests
 from bs4 import BeautifulSoup
@@ -128,9 +129,15 @@ print(data3)
 for i in data4:
     print(i.get_text())
 
+select('div.course#python > #crawling') #  select는 find_all 대신 사용. div, class는 course id는 파이썬이고 '바로 그 아래' id가 crawling인 영역을 크롤링
 
 
+
+
+## 오류 여부 검사
 res.status_code != 200 ## 페이지 상태, 오류여부는 status_code로
+
+## 여러 페이지 크롤링
 
 ```
 
