@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python_reference.md"
+                "file": "Profile.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "bcdfdc507abf3ead",
   "lastOpenFiles": [
+    "Python/Python_reference.md",
     "Daily Done List.md",
     "Daily Done List/2024-04-15.md",
     "Growth_Hacking/4-1 지표 활용하기.pdf",
@@ -165,7 +166,6 @@
     "Python/crawling_2.py",
     "Python/crawling_1.py",
     "Python/Python practice/reference_codes.ipynb",
-    "Python/Python_reference.md",
     "Python/def+for.py",
     "Python/Python practice/python-question5-web.ipynb",
     "Python/Python practice/python-question4-web.ipynb",
