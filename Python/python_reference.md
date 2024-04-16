@@ -128,5 +128,9 @@ print(data3)
 for i in data4:
     print(i.get_text())
 
+
+
+res.status_code != 200 ## 페이지 상태, 오류여부는 status_code로
+
 ```
 
