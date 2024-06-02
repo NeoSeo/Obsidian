@@ -7,6 +7,17 @@ a.strip('dd') ## Space 혹은 dd같은 문자 삭제 removing space or particula
 print("This is a {}".format("pen"))
 format(interest, ".2f") ## 소숫점 둘째자리까지
 
+## range와 reverse 이용
+data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+for i in range(9,-1,-1):
+    print(data[i])
+## 위와 같은 결과값을 반환
+data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+data.reverse()
+for item in data:
+    print (item)
+## -> [10,9,8,7,6,5,4,3,2,1]
+
 
 code = '000660\n00000102\t12312312' ## \n 코드 줄바꿈 \t tab 역할
 print (code)
@@ -37,6 +48,8 @@ func(2)
 # -> (a,b) 튜퓰 형태의 복수 값 반화. 원래 함수는 하나의 값만 반환하지만, 파이썬만의 특징!!(튜플의 성질 이용) 마찬가지로 아래도 가능
 var1, var2 = 3, 4 ## (var1, var2)형태의 튜플로 생각하여 3,4를 각각 입력한다
 
+Range(1, 11, 2) # odd numbers only  
+
 
 ```
 
@@ -51,6 +64,7 @@ list 와 튜플은 서로 데이타 타입이 변환 가능하다.
 
 #### dictionary: dict() or {}
 ```python
+
 data = {'한국': '서울', '일본': '도쿄'} 
 data['한국'] ## 서울 출력
 data['미국'] = '워싱턴' ## 인자 추가
@@ -114,6 +128,7 @@ html = """
 </html>
 """
 soup = BeautifulSoup(html,"html.parser")
+
 # 태그로 검색 방법
 
 data = soup.find('p', class_ = 'cssstyle')
@@ -132,12 +147,43 @@ for i in data4:
 select('div.course#python > #crawling') #  select는 find_all 대신 사용. div, class는 course id는 파이썬이고 '바로 그 아래' id가 crawling인 영역을 크롤링
 
 
+##Select 사용
+## select로 뽑을 경우 리스트 형태 select_one으로 뽑으로 경우 object 타입이 반환
 
+from bs4 import BeautifulSoup
+import requests
+res = requests.get('https://davelee-fun.github.io/blog/crawl_html_css.html')
+soup = BeautifulSoup(res.content, 'html.parser')
+items = soup.select('tr') ## select 대신 find_all을 써도 된다.
+for i in items:
+    cols = i.select('td')
+    row_str = ''
+    for col in cols:
+        row_str += '.. '+col.get_text()
+    print(row_str[2:])
 
 ## 오류 여부 검사
 res.status_code != 200 ## 페이지 상태, 오류여부는 status_code로
 
-## 여러 페이지 크롤링
+##urllib library를이용한 크롤링
+from urllib.request import urlopen ## <- 이 부분과
+from bs4 import BeautifulSoup
+
+res = urlopen('https://davelee-fun.github.io/') ## <-- 이 부분만 다름
+soup = BeautifulSoup(res, 'html.parser')
+
+data = soup.select('h4.card-text')
+for item in data:
+    print (item.get_text().strip()) ## strip은 불필요한 띄어쓰기 없애기
+
+## 여러 페이지 크롤링 추가
+for page_num in range(3):
+    if page_num == 0:
+        res = requests.get('https://davelee-fun.github.io/') # 1 page가 보통 숫자 페이지로 되어 있지 않기 때문
+    else:
+        res = requests.get('https://davelee-fun.github.io/page' + str(page_num + 1))
+
+
 
 ```
 

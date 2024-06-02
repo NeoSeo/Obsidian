@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profile.md",
+                "file": "Python/Python_reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profile.md",
+                "file": "Python/Python_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profile.md",
+                "file": "Python/Python_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profile.md"
+                "file": "Python/Python_reference.md"
               }
             }
           },
@@ -158,31 +158,32 @@
   },
   "active": "bcdfdc507abf3ead",
   "lastOpenFiles": [
-    "Python/Crawling_3.py",
-    "Python/Python_reference.md",
-    "Daily Done List.md",
-    "Daily Done List/2024-04-15.md",
-    "Growth_Hacking/4-1 지표 활용하기.pdf",
-    "Profile.md",
-    "Python/crawling_2.py",
-    "Python/crawling_1.py",
-    "Python/Python practice/reference_codes.ipynb",
-    "Python/def+for.py",
-    "Python/Python practice/python-question5-web.ipynb",
+    "Python/stringfunction.ipynb",
+    "Python/regularexpression.ipynb",
+    "Python/Python_Do_IT_by_Myself.ipynb",
+    "Python/Crawling practice/crawling_openapi-checkpoint.ipynb",
+    "Python/Crawling practice/crawling_openapi.ipynb",
+    "Python/Crawling practice/crawling_urllib.ipynb",
+    "Python/crawling_excel.ipynb",
     "Python/Python practice/python-question4-web.ipynb",
+    "Python/Python practice/python-question3-web.ipynb",
+    "Python/Python practice/python-question2-web.ipynb",
+    "Python/Python practice/python-question1-web.ipynb",
+    "Project/Retention_Rate/Readme.md",
+    "Profile.md",
+    "Daily Done List.md",
+    "Python/Python_reference.md",
+    "Daily Done List/2024-04-15.md",
     "Image/Example of range.png",
     "Image/Growth_Hacking_SQL_review.png",
     "SQL/SQL_reference.md",
     "Daily Done List/2024-04-08.md",
     "Daily Done List/2024-03-22.md",
     "Leetcode sql50 badge.png",
-    "SQL/leetcode/correlation_subquery_to_filter.sql",
     "Pasted image 20240403225634.png",
     "Pasted image 20240403225205.png",
     "Pasted image 20240403225354.png",
     "Pasted image 20240403225200.png",
-    "SQL/데이터분석_SQL_Fundamentals.pdf",
-    "Growth_Hacking/8-1 그로스해킹 공부.pdf",
     "Daily Done List/2024-01-29.md",
     "Daily Done List/2024-01-19.md",
     "Daily Done List/2024-03-20.md",
@@ -200,7 +201,6 @@
     "Daily Done List/2024-02-15.md",
     "Daily Done List/2024-02-17.md",
     "Daily Done List/2024-02-11.md",
-    "Excalidraw/Drawing 2024-01-19 19.39.02.excalidraw.md",
     "무제 파일.canvas",
     "Pasted image 20240119190115.png",
     "Untitled.canvas"
