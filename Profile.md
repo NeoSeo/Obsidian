@@ -11,7 +11,10 @@
 
 #### Selenium: Beginner
 
+
 # Study Plan
+
+## Soft skill
 
 ✅[[백문이불여일타] 데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-sql/dashboard) ■■■■■ [Certificate](https://www.inflearn.com/certificate/202829-324605-2065655)
 
@@ -21,33 +24,43 @@
 
 ✅[그로스해킹 - 데이터와 실험을 통해 성장하는 서비스를 만드는 방법](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%ED%8E%80%EB%8D%94%EB%A9%98%ED%83%88/dashboard) ■■■■■ [Certificate](https://www.inflearn.com/certificate/202829-324487-1073152)
 
-[다양한 사례로 익히는 SQL 데이터 분석](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%EC%82%AC%EB%A1%80%EC%A4%91%EC%8B%AC/dashboard) ■
-
 ✅[파이썬입문과 크롤링기초 부트캠프 - 파이썬, 웹, 데이터 이해 기본까지](https://www.inflearn.com/course/python-crawling-basic/dashboard) ■■■■■[Certificate](https://www.inflearn.com/certificate/202829-324082-1073151)
 
-[이것이 진짜 크롤링이다 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88/dashboard) ■■■
+✅[이것이 진짜 크롤링이다 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88/dashboard) ■■■■■
 
-[사무직 칼퇴 필수 기술 : 파이썬 업무 자동화 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
+✅[사무직 칼퇴 필수 기술 : 파이썬 업무 자동화 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard) ■■■■■ [Certificate](https://www.inflearn.com/certificate/202829-330111-11582628)
 
-[처음하는 SQL과 데이터베이스(MySQL) 부트캠프 {입문부터 활용까지}](https://www.inflearn.com/course/sql-db-mysql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
-
-[현존 최강 파이썬 크롤링 부트캠프](https://school.fun-coding.org/p/supercrawl)
-
-[Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/)
+✅[처음하는 SQL과 데이터베이스(MySQL) 부트캠프 {입문부터 활용까지}](https://www.inflearn.com/course/sql-db-mysql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D) ■■■■■
 
 [단 두 장의 문서로 데이터 분석과 시각화 뽀개기](https://www.inflearn.com/course/%ED%8C%90%EB%8B%A4%EC%8A%A4-pandas/dashboard)
 
 [공공데이터로 파이썬 데이터 분석 시작하기](https://www.inflearn.com/course/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0#)
 
-[파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
+[Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/)
+
+[캐글 설문조사로 데이터 분석 입문하기](https://www.inflearn.com/course/%EC%BA%90%EA%B8%80-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC)
+
+[다양한 사례로 익히는 SQL 데이터 분석](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%EC%82%AC%EB%A1%80%EC%A4%91%EC%8B%AC/dashboard) ■
+
+[현존 최강 파이썬 크롤링 부트캠프](https://school.fun-coding.org/p/supercrawl)
 
 [PM을 위한 데이터 리터러시(프로덕트 데이터 분석)](https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C)
 
 [실리콘밸리 엔지니어가 가르치는 파이썬 기초부터 고급까지](https://www.inflearn.com/course/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EA%B3%A0%EA%B8%89%EA%B9%8C%EC%A7%80/dashboard) ■■
 
+## Hard skills
+
+[AB 테스트 실무자 완벽 가이드](https://www.inflearn.com/course/ab-test-%EB%B2%A0%EC%9D%B4%EC%A7%81-%EC%BD%94%EC%8A%A4/dashboard) ■■■■
+
+[류근관의 통계특강 30강](https://youtu.be/b8tTQ1EZzho?si=VxjL_cTEcUzREXns) ■■
+
+[파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
+
 [Coursera Maching Learning Course](https://www.coursera.org/specializations/machine-learning-introduction)
 
 [Coursera Deep Learning Course](https://www.coursera.org/specializations/deep-learning)
+
+[MicroMasters® Program in Statistics and Data Science](https://www.edx.org/masters/micromasters/mitx-statistics-and-data-science?irclickid=UVLUQTUtdzcmTF73AyxZWxAgUkH0Um259SXOTo0&utm_source=affiliate&utm_medium=LearnDataSci&utm_campaign=Online%20Tracking%20Link_&utm_content=ONLINE_TRACKING_LINK&irgwc=1)
 # Reference for jobs related to data
 
 [30/40대에 데이터 사이언스로 커리어 체인지를 생각한다면](https://brunch.co.kr/@carmenlee/41)

@@ -52,3 +52,10 @@ Learnt set, dictionary, tuple type of Python.
 Attained SQL TOP 50 in Leetcode
 
 [[2024-04-15]] Studied additional crwaling using select (# for id, . for class, strip(), split())
+
+## May
+[[2024-04-08]]~[[2024-06-03]] Completed Python for crawling. Learnt crawling using css selector and put them in excel sheet using openpyxl library. 
+
+[[2024-06-04]] Learnt python to Excel using pandas which is easier and simpler. 
+df = pd.DataFrame(data, columns = ['가격'])
+df.to_excel('result.xlsx', index = False) # 인덱스 없애기

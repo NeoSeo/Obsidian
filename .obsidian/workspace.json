@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Daily Done List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9d48e18968e66d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Python/Python_reference.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "64af8d5f55623156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Profile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "416b73352a5c476c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual Studio Code 단축키.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a435b5b137e9941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Profile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python_reference.md",
+                "file": "Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python_reference.md"
+                "file": "Profile.md"
               }
             }
           },
@@ -156,28 +205,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcdfdc507abf3ead",
+  "active": "7a435b5b137e9941",
   "lastOpenFiles": [
-    "Python/stringfunction.ipynb",
-    "Python/regularexpression.ipynb",
-    "Python/Python_Do_IT_by_Myself.ipynb",
-    "Python/Crawling practice/crawling_openapi-checkpoint.ipynb",
-    "Python/Crawling practice/crawling_openapi.ipynb",
-    "Python/Crawling practice/crawling_urllib.ipynb",
-    "Python/crawling_excel.ipynb",
-    "Python/Python practice/python-question4-web.ipynb",
-    "Python/Python practice/python-question3-web.ipynb",
-    "Python/Python practice/python-question2-web.ipynb",
-    "Python/Python practice/python-question1-web.ipynb",
-    "Project/Retention_Rate/Readme.md",
-    "Profile.md",
     "Daily Done List.md",
+    "Visual Studio Code 단축키.md",
     "Python/Python_reference.md",
+    "Python/~$result_1.xlsx",
+    "Python/result_1.xlsx",
+    "Profile.md",
+    "Python/result.xlsx",
+    "Python/openpyxl_pandas_crawling.py",
+    "Python/openpyxl_concation.py",
+    "Python/openpyxls_basic.py",
+    "Python/openpyxl_loading.py",
+    "Python/openpyxl_creating.py",
+    "Python/openpyxl_practice.py",
+    "Project/Retention_Rate/~$Retention&ARPPU_for_SQL.xlsx",
+    "SQL/SQL_reference.md",
+    "Daily Done List/2024-06-04.md",
+    "Daily Done List/2024-06-03.md",
+    "Daily Done List/2024-04-08.md",
     "Daily Done List/2024-04-15.md",
+    "Project/Retention_Rate/Readme.md",
     "Image/Example of range.png",
     "Image/Growth_Hacking_SQL_review.png",
-    "SQL/SQL_reference.md",
-    "Daily Done List/2024-04-08.md",
     "Daily Done List/2024-03-22.md",
     "Leetcode sql50 badge.png",
     "Pasted image 20240403225634.png",
@@ -198,9 +249,6 @@
     "Project/Retention_Rate/retention.md",
     "Daily Done List/2024-02-08.md",
     "Daily Done List/2024-01-27.md",
-    "Daily Done List/2024-02-15.md",
-    "Daily Done List/2024-02-17.md",
-    "Daily Done List/2024-02-11.md",
     "무제 파일.canvas",
     "Pasted image 20240119190115.png",
     "Untitled.canvas"
